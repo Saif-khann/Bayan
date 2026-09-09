@@ -1,0 +1,3192 @@
+[
+  {
+    "id": "labor_law-en-1",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 1,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 1: Definitions",
+    "section": null,
+    "text": "This law shall be called the Labor Law.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-2",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 2,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 1: Definitions",
+    "section": null,
+    "text": "In this Law, the following terms shall have the meanings assigned thereto, unless the context requires\notherwise:\nMinistry: Ministry of Labor.\nMinister: Minister of Labor.\nLabor Office: The administrative authority assuming jurisdiction over the labor affairs within an\narea specified by a decision of the Minister.\nEmployer: Any natural or corporate person employing one or more workers for a wage.\nWorker: Any natural person working for an employer and under his management or supervision for\na wage, even if he is not under his direct control.\nMinor: Any person of 15 and below 18 years of age.\nWork: The effort exerted in all human activities in execution of a (written or unwritten) employment\ncontract regardless of their nature or kind, be they industrial, commercial, agricultural, technical, o r\notherwise, whether physical or mental.\nOriginal Work: For individuals: Their usual business activities. For establishments: The activities\nfor which the establishment was established as stated in its articles of incorporation, franchise contract\n– if a franchise company, or Commercial Register.\nTemporary Work: Work considered by its nature to be part of the employer’s activities, the\ncompletion of which requires a specific period or relates to a specific job and ends with its completion.\nIt shall not exceed 90 days in either case.\nIncidental Work: Work that is not considered by its nature to be part of the usual activities of an\nemployer, and its execution does not require more than 90 days.\nSeasonal Work: Work that takes place during known periodical seasons.\nPart-Time Work: Work performed by a part-time worker for an employer and for less than half the\nusual daily working hours at the establishment, whether such a worker works on a daily basis or on\ncertain days of the week.\nContinuous Service: The uninte rrupted service of a worker for the same employer or his legal\nsuccessor from the starting date of service. Service shall be deemed continuous in the following cases:\n1. Official holidays and vacations.\n2. Interruptions for sitting for examinations in accordance with the provisions of this Law.\n3. Worker’s unpaid absences from work for intermittent periods not exceeding 20 days per work\nyear.\nBasic Wage: All that is given to a worker for his work by virtue of a written or unwritten employment\ncontract regardless of the kind of wage or its method of payment, in addition to periodic increments.\nActual Wage: The basic wage plus all other due increments decided for a worker for the effort he\nexerts at work or for risks he encounters in the course of performing his work, or those decided for\nthe worker for the work under the employment contract or work organization regulation. This\nincludes:\n1. The commission or percentage from sales or profits paid against what the worker markets,\nproduces, collects, or realizes from increased or enhanced production.\n2. Allowances the worker is entitled to for exerted effort or risks he encounters while performing his\njob.\n3. Increments that may be granted in accordance with the standard of living or to meet family\nexpenses.\n4. Grants or rewards: What the employer grants to a worker and what is paid to him for honesty or\nefficiency and the like, if such grant or reward is stipulated in the employment contract or the work\norganization regulation of the establishment, or if it is customarily grante d to the extent that\nworkers consider it part of the wage rather than a donation.\n5. In rem privileges: What the employer commits himself to provide to the worker for his work by\nstating the same in the employment contract or the work organization regulation, and it is estimated\nat a maximum of two-month basic wage per annum, unless it is otherwise estimated to exceed that\nin the employment contract or the work organization regulation.\nWage: actual wage.\nestablishment: Any enterprise run by a natural or corporate person which employs one or more\nworkers for a wage of any kind.\nMonth: 30 days, unless otherwise specified in the employment contract or the work organization\nregulation.\nRegulations: The Implementing Regulations of this Law.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-47",
+      "labor_law-en-amd-55"
+    ]
+  },
+  {
+    "id": "labor_law-en-3",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 3,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "Work is the right of every citizen. No one else may exercise such right unless the conditions provided\nfor in this Law are fulfilled. All citizens are equal in the right to work.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-48"
+    ]
+  },
+  {
+    "id": "labor_law-en-4",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 4,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "When implementing the provisions of this Law, employers and workers shall adhere to the provisions\nof Sharia.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-5",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 5,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "The provisions of this Law shall apply to:\n1. Any contract whereby a person commits himself to work for an employer and under his\nmanagement or supervision for a wage.\n2. Workers of the government and public organizations and institutions including those who work in\npastures or agriculture.\n3. Workers of charitable institutions.\n4. Workers of agricultural and pastoral establishments that employ ten or more workers.\n5. Workers of agricultural establishments that process their own products.\n6. Workers who operate or repair agricultural machineries on a permanent basis.\n7. Qualification and training contracts with workers other than those working for the employer within\nthe limits of the special provisions provided for in this Law.\n8. Part-time workers with respect to safety, occupational health and work injuries, as well as what is\ndecided by the Minister.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-4"
+    ]
+  },
+  {
+    "id": "labor_law-en-6",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 6,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "Incidental, seasonal, and temporary workers shall be subject to the provisions on duties and\ndisciplinary rules, the maximum working hours, daily and weekly rest intervals, overtime work,\nofficial holidays, safety rules, occupational health, and work injuries and compensation therefore as\nwell as whatever is decided by the Minister.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-7",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 7,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "The following shall be exempted from the implementation of the provisions of this Law:\n1. The employer's family members, namely, the spouse, the ascendants and descendants who\nconstitute the only workers of the establishment.\n2. Domestic helpers and the like.\n3. Sea workers working on board of vessels with a load of less than five hundred tons.\n4. Agricultural workers other than the categories stated in Article 5 of this Law.\n5. Non-Saudi workers entering the Kingdom to perform a specific task for a period not exceeding\ntwo months.\n6. Players and coaches of sports clubs and federations.\nThe Ministry shall, in coordination with the competent authorities, draft regulations for domestic\nhelpers and the like to govern their relations with their employers and specify the rights and duties of\neach party and submit the same to the Council of Ministers.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-5",
+      "labor_law-en-amd-56"
+    ]
+  },
+  {
+    "id": "labor_law-en-8",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 8,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "Any condition that conflicts with the provisions of this Law shall be deemed null and void. The same\napplies to any release or settlement of the worker’s rights arising from this Law during the validity\nof the employment contract, unless the same is more beneficial to the worker.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-9",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 9,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "Arabic shall be the language used for information, records, files, employment contracts, and the like\nas provided for in this Law or in any decision issued in implementation of its provisions as well as\nthe instructions issued by the employer to his workers.\nIf the employer uses a foreign language besides Arabic in any of the aforementioned cases, the Arabic\ntext shall prevail.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-10",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 10,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "All periods and schedules provided for in this Law shall be according to the Hijri calendar, unless\notherwise stated in the employment contract or the work organization regulation.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-11",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 11,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "1. If the employer assigns all or part of his original business  to a natural or corporate person, the\nlatter shall give his workers all the rights and privileges which the original employer gives to his\nworkers, and both of them shall be jointly and severally liable.\n2. In case of multiple employers, all of them shall be jointly and severally responsible for the\nfulfillment of the obligations arising from this Law and the employment contracts.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-6",
+      "labor_law-en-amd-7"
+    ]
+  },
+  {
+    "id": "labor_law-en-12",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 12,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "Both the employer and the worker shall be familiar with the provisi ons of the Labor Law in all its\ncontents so that each of them shall be aware of his position and of his rights and duties. Any employer\nwho employs ten or more workers shall submit to the Ministry, a work organization regulation\nincluding internal work provisions, within a year of the effective date of this Law or from the date of\nreaching the quota. Such regulations shall include the work organization rules and all related\nprovisions including the provisions related to privileges, violations and disciplina ry penalties, not\ncontradicting the provisions of this Law.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-8"
+    ]
+  },
+  {
+    "id": "labor_law-en-13",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 13,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "The Ministry shall approve the work organization regulation and all amendments to it within 60 days\nfrom the date of its submission to the Ministry.\nIf such period elapses without approval or objection, the regulation shall be considered effective as\nof the end of such period.\nThe employer shall announce the regulation by displaying it in a prominent location in the\nestablishment or by any other means that ensures the workers’ awareness thereof.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-8"
+    ]
+  },
+  {
+    "id": "labor_law-en-14",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 14,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "A model, or models, for work organization regulation shall be issued pursuant to a decision by the\nMinister for the guidance of employers.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-8"
+    ]
+  },
+  {
+    "id": "labor_law-en-15",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 15,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "An employer shall, upon commencement of work in any establishment, notify the competent labor\noffice in writing of the following information:\n1. Name, type, and headquarters of the establishment, as well as its mailing address and any\ninformation that facilitates contact therewith.\n2. Line of business for which it is licensed, providing the number of the Commercial Register or the\nlicense, its date, and issuing authority, together with a copy thereof.\n3. Number of workers to be employed in the establishment.\n4. Name of the establishment’s manager in-charge.\n5. Any other information required by the Ministry.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-16",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 16,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "1. If the employer is unable to run the business in person, he shall designate a representative at the\nworkplace. In case of multiple partners or managers in the establishment, one of them, from among\nthose residing at the place of work, shall be nominated to represent the employer and be liable for\nany violation of the provisions of this Law.\n2. The employer shall notify the competent labor office in writing of the name of the partner or\nmanager, and, in case he is replaced, he shall notify the labor office of the name of the new partner\nor manager within seven days at most of the date the latter assumes the job.\n3. In case no manager is appointed to be in charge of the establishment, or if the appointed manager\ndoes not assume his duties, the n the person who actually runs the establishment or the employer\nhimself shall be considered the manager in charge of the establishment.\nIn all cases, the employer is ultimately liable.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-17",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 17,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "An employer shall maintain at the workplace the records, statements, and files the nature and contents\nof which shall be specified in the Regulations.\nHe shall display at a visible location at the workplace a schedule of working hours, breaks, weekly\nrest days, and the time each shift starts and ends, when operating in shifts.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-18",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 18,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "If the ownership of an establishment is transferred to a new owner or a change takes place in its legal\nform through merger, partition, or otherwise, employment contracts shall remain in force in both\ncases and service shall be deemed continuous.\nAs for workers’ rights accrued for the period prior to the change, such as wages or unrealized end -\nof-service awards on the date of the transfer of ownership and other rights, the predecessor and the\nsuccessor shall be jointly and severally liable. However, in the case of transfer of ownership of sole\nproprietorships, for any reason, the predecessor and the successor may agree to transfer all the\nprevious rights of the worker to the new owner subject to the written consent of the worker.  If the\nworker disapproves, he may request the termination of his contract and collect his dues from the\npredecessor.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-19",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 19,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "Amounts due to the worker or his heirs under this Law shall be deemed first rate privileged debts and\nthe worker and his heirs shall, for the purpose of settling them, be entitled to a privilege over all the\nemployer’s properties. In case of the employer’s  bankruptcy or the liquidation of his establishment,\nthe aforementioned amounts shall be entered as privileged debts and the worker shall be paid an\nexpedited amount equivalent to one-month wage prior to the payment of any other expenses including\njudicial, bankruptcy, or liquidation expenses.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-20",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 20,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "An employer or a worker may not perform any act that may abuse the provisions of this Law or the\ndecisions or regulations issued for its implementation. Neither of them may undertake any act that\ninfringes upon the freedom of the other or the freedom of other workers or employers to realize any\ninterest or impose a point of view that conflicts with the freedom of work or the jurisdiction of the\ncompetent authority in charge of the settlement of disputes.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-21",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 21,
+    "part": "Part 1: Definitions and General Provisions",
+    "chapter": "Chapter 2: General Provisions",
+    "section": null,
+    "text": "The Minister, in implementing the provisions of this Law, shall coordinate with relevant authorities\nwhenever necessary.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-22",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 22,
+    "part": "Part 2: Organization of Recruitment",
+    "chapter": "Chapter 1: Employment Units",
+    "section": null,
+    "text": "The Ministry shall provide employment units, free  of charge, at locations convenient for employers\nand workers, which shall undertake the following:\n1. Assist workers in finding suitable jobs and aid employers in recruiting suitable workers.\n2. Gather necessary information on the labor market and its developme nts and analyzing such\ninformation to make it available to various public and private organizations concerned with\neconomic and social planning affairs.\n3. Perform the following duties:\n3.1 Registering job seekers.\n3.2 Obtaining information on vacant jobs from employers.\n3.3 Referring workers’ applications to suitable vacant jobs.\n3.4 Providing advice and assistance to job seekers with respect to vocational qualification and\ntraining or the required retraining to fill vacancies.\n3.5 Other matters decided by the Ministry.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-58",
+      "labor_law-en-amd-59"
+    ]
+  },
+  {
+    "id": "labor_law-en-23",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 23,
+    "part": "Part 2: Organization of Recruitment",
+    "chapter": "Chapter 1: Employment Units",
+    "section": null,
+    "text": "Every citizen of working age who is capable of work and willing to work may register his name at\nthe employment unit along with his date of birth, qualifications, previous employment, preferences,\nand address.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-57"
+    ]
+  },
+  {
+    "id": "labor_law-en-24",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 24,
+    "part": "Part 2: Organization of Recruitment",
+    "chapter": "Chapter 1: Employment Units",
+    "section": null,
+    "text": "The Regulations shall specify the rules and procedures for work progress at employment units, forms\nof registers, notices, and other papers used for its work in addition to job classification tables,\naccording to the official job classification, which shall be the basis for organizing recruitment.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-57"
+    ]
+  },
+  {
+    "id": "labor_law-en-25",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 25,
+    "part": "Part 2: Organization of Recruitment",
+    "chapter": "Chapter 1: Employment Units",
+    "section": null,
+    "text": "Every employer shall send the following to the competent labor office:\n1. A statement of vacant and new jobs, their types, locations, wages, and qualifications within a\nperiod not exceeding 15 days from the date of vacancy or creation thereof.\n2. A notice of the measures taken to employ the citizens nominated by the employment unit within\nseven days from receiving the nomination letter.\n3. A list of the names, jobs, professions, wages, ages, and nationalities of his workers, as well as the\nnumbers and dates of work permits for non -Saudis and other information specified in the\nRegulations.\n4. A report on the status, conditions, and nature of work and the anticipated increase or decrease in\njobs during the year following the date of the report.\n5. The statements specified in paragraphs (3) and (4) of this Article shall be sent during the month of\nMuharram of every year.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-57",
+      "labor_law-en-amd-60"
+    ]
+  },
+  {
+    "id": "labor_law-en-26",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 26,
+    "part": "Part 2: Organization of Recruitment",
+    "chapter": "Chapter 1: Employment Units",
+    "section": null,
+    "text": "1. All establishments in all fields, and regardless of the number of workers, shall work to attract and\nemploy Saudis, create conditions to keep them on the job, and avail them of adequate opportunities\nto prove their suitability for the job by guiding, training, and qualifying them for their assigned\njobs.\n2. The percentage of Saudi workers employed by an employer shall not be less than 75% of the total\nnumber of his workers. The Minister may temporarily reduce this percentage in case of the lack\nof adequate technically or academically qualified workers or if it is not possible to fill vacant jobs\nwith nationals.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-27",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 27,
+    "part": "Part 2: Organization of Recruitment",
+    "chapter": "Chapter 1: Employment Units",
+    "section": null,
+    "text": "The Minister may – when necessary in certain activities and professions and in some provinces and\ncounties - require employers not to employ workers until they have been registered at employment\nunits under the terms and conditions specified pursuant to his decision.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-57"
+    ]
+  },
+  {
+    "id": "labor_law-en-28",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 28,
+    "part": "Part 2: Organization of Recruitment",
+    "chapter": "Chapter 2: Employment of the Disabled",
+    "section": null,
+    "text": "Each employer employing 25 workers or more where the nature of his work allows recruitment of\nthe professionally disabled shall employ a number of disabled persons tha t represents at least 4% of\nthe total number of his workers whether through nomination by employment units or otherwise.\nHe shall send to the competent labor office a list of the jobs and posts occupied by professionally\nqualified disabled persons and their wages.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-57",
+      "labor_law-en-amd-60",
+      "labor_law-en-amd-61"
+    ]
+  },
+  {
+    "id": "labor_law-en-29",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 29,
+    "part": "Part 2: Organization of Recruitment",
+    "chapter": "Chapter 2: Employment of the Disabled",
+    "section": null,
+    "text": "If a worker sustains a work injury that results in a loss in his usual capabilities that does not prevent\nhim from performing another job, the employer, under whose service the work injury was sustained,\nshall employ said worker in a suitable job for the wage specified for such job. This shall not prejudice\nthe worker's due compensation for the injury.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-30",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 30,
+    "part": "Part 2: Organization of Recruitment",
+    "chapter": "Chapter 3: Private Offices for the Recruitment of Citizens and Private Offices for Recruiting from Abroad",
+    "section": null,
+    "text": "A natural or corp orate person may not engage in the recruitment of Saudis or in the recruitment of\nworkers from abroad unless licensed by the Ministry.\nThe Regulations shall specify the functions of these two types of activities, the conditions for granting\nand renewing a  license to each of them, and the duties and prohibitions as well as rules for non -\nrenewal or revocation of the license and the consequences thereof, and other conditions and controls\nnecessary for ensuring the proper conduct of business.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-62"
+    ]
+  },
+  {
+    "id": "labor_law-en-31",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 31,
+    "part": "Part 2: Organization of Recruitment",
+    "chapter": "Chapter 3: Private Offices for the Recruitment of Citizens and Private Offices for Recruiting from Abroad",
+    "section": null,
+    "text": "Saudi workers to whose employment the recruitment offices contributed and workers recruited from\nabroad on behalf of employers shall be deemed workers of the employer and bound to him by direct\ncontractual relation.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-63"
+    ]
+  },
+  {
+    "id": "labor_law-en-32",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 32,
+    "part": "Part 3: Employment of Non-Saudis",
+    "chapter": null,
+    "section": null,
+    "text": "Recruitment from abroad for the purpose of work may not be undertaken without the approval of the\nMinistry.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-33",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 33,
+    "part": "Part 3: Employment of Non-Saudis",
+    "chapter": null,
+    "section": null,
+    "text": "A non-Saudi may not engage in or be allowed to engage in any work except after obtaining a work\npermit from the Ministry, according to the form prepared by it for this purpose. The conditions for\ngranting the permit are as follows:\n1. The worker has lawfully entered the country and is authorized to work.\n2. The worker possesses the professional or academic qualifications which the country needs  and\nwhich are not possessed by citizens or the available number of such citizens is insufficient to meet\nthe needs, or that he belongs to the class of ordinary workers that the country needs.\n3. The worker has a contract with an employer and is under his responsibility.\nThe word work in this Article shall mean any industrial, commercial, agricultural, financial, or other\nwork, and any service including domestic service.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-34",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 34,
+    "part": "Part 3: Employment of Non-Saudis",
+    "chapter": null,
+    "section": null,
+    "text": "No permit or license required by any other agency for engaging in a work or profession shall\nsubstitute for said work permit.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-35",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 35,
+    "part": "Part 3: Employment of Non-Saudis",
+    "chapter": null,
+    "section": null,
+    "text": "Prior to renewing the work permit, it shall be ascertained that none of the Saudi applicants possesses\nthe required qualifications and is willing to undertake the same work.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-9",
+      "labor_law-en-amd-64"
+    ]
+  },
+  {
+    "id": "labor_law-en-36",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 36,
+    "part": "Part 3: Employment of Non-Saudis",
+    "chapter": null,
+    "section": null,
+    "text": "The Minister shall issue a decision specifying the professions and jobs which are prohibited for non-\nSaudis.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-37",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 37,
+    "part": "Part 3: Employment of Non-Saudis",
+    "chapter": null,
+    "section": null,
+    "text": "The employment contract for non-Saudis shall be written and of a fixed term. If the contract does not\nspecify the duration, the duration of the work permit shall be deemed the duration of the contract.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-65"
+    ]
+  },
+  {
+    "id": "labor_law-en-38",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 38,
+    "part": "Part 3: Employment of Non-Saudis",
+    "chapter": null,
+    "section": null,
+    "text": "An employer may not employ a worker in a profession other than the one specified in his work permit.\nA worker is prohibited from engaging in a profession other than his before taking the legal measures\nnecessary to change his profession.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-39",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 39,
+    "part": "Part 3: Employment of Non-Saudis",
+    "chapter": null,
+    "section": null,
+    "text": "1. Unless he has followed the stipulated legal rules and procedures, an employer may not allow his\nworker to work for others, and a worker may not work for other employers. Similarly, an employer\nmay not employ workers of other employers.\n2. An employer may not allow a worker to work for his own account and a worker may not work for\nhis own account.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-1",
+      "labor_law-en-amd-66"
+    ]
+  },
+  {
+    "id": "labor_law-en-40",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 40,
+    "part": "Part 3: Employment of Non-Saudis",
+    "chapter": null,
+    "section": null,
+    "text": "1. An employer shall bear the fees pertaining to the recruitment of non -Saudi workers, the fe es for\nissuing and renewing residence permit (Iqama) and work permit, and the fines resulting from their\ndelay, as well as the fees pertaining to change of profession, exit and re -entry visas, and return\ntickets to the worker’s home country at the end of the relation between the two parties.\n2. A worker shall bear the costs of returning to his home country if he is unfit for work or if he wishes\nto return to his home country without a legitimate reason.\n3. An employer shall bear the fees of transferring the services of a worker who wishes to transfer his\nservice to him.\n4. An employer shall be responsible for the cost of preparing the body of a deceased worker and\ntransporting it to the location where the contract was concluded, or where the worker was recruited\nunless the worker is interred in the Kingdom with the approval of his family. The employer shall\nbe relieved if the General Organization for Social Insurance (GOSI) undertakes the same.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-67"
+    ]
+  },
+  {
+    "id": "labor_law-en-41",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 41,
+    "part": "Part 3: Employment of Non-Saudis",
+    "chapter": null,
+    "section": null,
+    "text": "The Regulations shall specify the conditions, controls, and procedures for recruitment from abroad,\ntransfer of services, and change of profession.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-42",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 42,
+    "part": "Part 4: Training and Qualification",
+    "chapter": "Chapter 1: Training and Qualification of the Employer’s Workers",
+    "section": null,
+    "text": "An employer shall be required to prepare his Saudi workers and enhance their technical,\nadministrative, vocational, and other skills for the purpose of gradually replacing non -Saudis. The\nemployer shall keep a record showing the names of the Saudi workers who have replaced non-Saudis\nin accordance with the conditions and rules set forth in the Regulations.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-68"
+    ]
+  },
+  {
+    "id": "labor_law-en-43",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 43,
+    "part": "Part 4: Training and Qualification",
+    "chapter": "Chapter 1: Training and Qualification of the Employer’s Workers",
+    "section": null,
+    "text": "Without prejudice to the conditions set forth in concession and other agreements relative to training,\nqualification, education, and scholarships, every employer employing 50 or more workers sh all\nannually train, in his business, a number of his Saudi workers not less than 6% of the total number of\nhis workers. The Minister may raise this percentage in certain establishments pursuant to a decision\nby him.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-10",
+      "labor_law-en-amd-69"
+    ]
+  },
+  {
+    "id": "labor_law-en-44",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 44,
+    "part": "Part 4: Training and Qualification",
+    "chapter": "Chapter 1: Training and Qualification of the Employer’s Workers",
+    "section": null,
+    "text": "The training program shall i nclude the rules and conditions to be followed in training, its duration,\nnumber of hours, theoretical and practical training programs, testing method, and the certificates to\nbe granted in this regard. The Regulations shall set forth the general criteria and rules to be followed\nin this regard to raise the worker’s level of performance in terms of skill and productivity.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-70"
+    ]
+  },
+  {
+    "id": "labor_law-en-45",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 45,
+    "part": "Part 4: Training and Qualification",
+    "chapter": "Chapter 2: Qualification and Training Contracts of other than the Employer’s Workers",
+    "section": null,
+    "text": "A training or qualification contract is a contract which commits the employer to train and qualify a\nperson for a specific profession.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-46",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 46,
+    "part": "Part 4: Training and Qualification",
+    "chapter": "Chapter 2: Qualification and Training Contracts of other than the Employer’s Workers",
+    "section": null,
+    "text": "A training or qualification contract shall be in writing, and shall indicate the profession for which the\ntraining is provided, the duration of train ing and its successive stages, and the allowance to be paid\nto the trainee at each stage, provided that it is not based on piecemeal or productivity.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-71"
+    ]
+  },
+  {
+    "id": "labor_law-en-47",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 47,
+    "part": "Part 4: Training and Qualification",
+    "chapter": "Chapter 2: Qualification and Training Contracts of other than the Employer’s Workers",
+    "section": null,
+    "text": "The Minister may require establishments, to be determined pursuant to a decision by him, to ac cept\na certain number or percentage of the students and graduates of colleges, institutes, and centers to\nreceive training and supplementary practical experience in accordance with the conditions,\ncircumstances, durations, and trainee allowances to be spec ified in an agreement to be concluded\nbetween the Ministry and the management of the relevant establishment.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-72"
+    ]
+  },
+  {
+    "id": "labor_law-en-48",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 48,
+    "part": "Part 4: Training and Qualification",
+    "chapter": "Chapter 2: Qualification and Training Contracts of other than the Employer’s Workers",
+    "section": null,
+    "text": "The employer may terminate the training or qualification contract if the trainee, in his opinion, is not\namenable to or incapable of completing the training program in a beneficial manner. The trainee, his\nguardian or trustee shall have the same right. The party wishing to terminate the contract shall notify\nthe other party at least one week prior to the date of cessation of the training.\nThe employer may require the trainee to work for him upon completion of the training period for a\nperiod not to exceed twice the duration of the training or one year, whichever is longer.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-11",
+      "labor_law-en-amd-73"
+    ]
+  },
+  {
+    "id": "labor_law-en-49",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 49,
+    "part": "Part 4: Training and Qualification",
+    "chapter": "Chapter 2: Qualification and Training Contracts of other than the Employer’s Workers",
+    "section": null,
+    "text": "The training and qualification contract shall be subject to the provisions of this Law in terms of annual\nvacations, official holidays, maximum working hours, daily and weekly  rest periods, occupational\nhealth and safety rules, and work injuries and their conditions as well as whatever is decided by the\nMinister.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-50",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 50,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 1: Employment Contract",
+    "section": null,
+    "text": "An employment contract is a contract concluded bet ween an employer and a worker, whereby the\nlatter undertakes to work under the management or supervision of the former for a wage.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-51",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 51,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 1: Employment Contract",
+    "section": null,
+    "text": "The employment contract shall be executed in duplicate, one copy to be retained by each of the two\nparties. However, a contract shall be deemed to exist even if not written. In this case the worker alone\nmay establish the contract and his entitlements arising therefrom by all methods of proof. Either party\nmay at any time demand that the contract be in writing. As for workers of the government and public\ncorporations, the appointment decision or order issued by the competent authority shall serve as the\ncontract.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-74"
+    ]
+  },
+  {
+    "id": "labor_law-en-52",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 52,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 1: Employment Contract",
+    "section": null,
+    "text": "The employment contract shall primarily include the name of the employer, venue, the name of the\nworker, nationality, identification, wage agreed upon, type and location of work, date of employment,\nduration of the contract if fixed, subject to the provisions of Article 37 of this Law.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-12",
+      "labor_law-en-amd-75"
+    ]
+  },
+  {
+    "id": "labor_law-en-53",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 53,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 1: Employment Contract",
+    "section": null,
+    "text": "If the worker is subject to a probation period, the same shall be expressly stated and clearly indicated\nin the employment contract. Such probation period shall not exceed 90 days, exclusive of Eid al-Fitr\nand Eid al-Adha holidays and sick leaves. Each party shall have the right to terminate the contract\nduring this period, unless the contract embodies a clause giving the right to terminate the contract to\nonly one of them.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-13",
+      "labor_law-en-amd-76"
+    ]
+  },
+  {
+    "id": "labor_law-en-54",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 54,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 1: Employment Contract",
+    "section": null,
+    "text": "A worker may not be placed on probation more than once by the same employer. As an exception to\nthis, the worker may, with t he approval of the contract parties, be subjected to another probation\nperiod of not more than 90 days on the condition that this period involves another profession or work.\nIf the contract is terminated during the probation period, neither party shall be entitled to\ncompensation nor shall the worker be entitled to an end-of-service award.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-14"
+    ]
+  },
+  {
+    "id": "labor_law-en-55",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 55,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 1: Employment Contract",
+    "section": null,
+    "text": "1. The fixed-term contract shall terminate upon expiration of its term. If the two parties continue to\nimplement it, it shall be deemed renewed for an indefinite period of time, subject to the provisions\nof Article 37 of this Law for non-Saudi workers.\n2. If the fixed -term contract incorporates a clause providing for its renewal for a similar term or a\nspecified term, the contract shall be renewed for the period agreed upon. If the contract is renewed\nfor two consecutive terms or if the original contract term and the renewal period amount to three\nyears, whichever is less, and the two parties continue to implement it, the contract shall become\nan indefinite term contract.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-15"
+    ]
+  },
+  {
+    "id": "labor_law-en-56",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 56,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 1: Employment Contract",
+    "section": null,
+    "text": "In all cases where the contract term is renewed for a specific period of time, the contract renewal\nperiod shall be deemed an extension of the original term in determining the worker’s rights which\ntakes into account the worker’s period of service.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-57",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 57,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 1: Employment Contract",
+    "section": null,
+    "text": "If the contract involves performance of a specific work, it shall terminate with the completion of the\nagreed upon work.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-58",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 58,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 1: Employment Contract",
+    "section": null,
+    "text": "The employer may not transfer the worker from his original workplace to another place that entails a\nchange in his place of residence, if such transfer is likely to cause serious harm to the worker and is\nnot justified by the nature of work.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-16"
+    ]
+  },
+  {
+    "id": "labor_law-en-59",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 59,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 1: Employment Contract",
+    "section": null,
+    "text": "A monthly-paid worker may not be reclassified as a daily-paid, a weekly-paid, or hourly-paid worker\nnor as a worker paid by piecework, unless the worker agrees thereto in writing and without prejudice\nto the rights he has acquired during the period he spent as a monthly-paid worker.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-60",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 60,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 1: Employment Contract",
+    "section": null,
+    "text": "Without prejudice to the provisions of Article 38 of this Law,  a worker may not be assigned duties\nwhich are essentially different from the agreed upon work without his written consent, except in cases\nof necessity dictated by transient circumstances and for a period not exceeding 30 days a year.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-61",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 61,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "First: Employers’ Duties",
+    "text": "In addition to the duties provided for in this Law and the regulations and decisions issued for its\nimplementation, the employer shall be required to:\n1. Refrain from resorting to forced labor, or withholding the worker’s wage or part thereof without\ncourt order, or mistreating the worker in any manner that may infringe upon his dignity or religion.\n2. Give the workers the time required to exercise their rights as provided for in this Law without any\ndeductions from their wages against such time. He may regulate the exercise of this right in a\nmanner not detrimental to work progress.\n3. Facilitate for the employees of the competent authorities any task related to the enforcement of the\nprovisions of this Law.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-77"
+    ]
+  },
+  {
+    "id": "labor_law-en-62",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 62,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "First: Employers’ Duties",
+    "text": "If the worker reports to work on the prescribed time or expresses his readiness to perform his work\nat such time but is prevented from doing so only by a cause which is ascribed to the employer, the\nworker shall be entitled to the wage for the period during which no work is performed.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-63",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 63,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "First: Employers’ Duties",
+    "text": "The employer, his agents, or any person having authority over the workers shall prohibit the entry of\nany illegal substances into places of work. Anyone who is found in possession of or consumes suc h\nsubstances shall be subject to the punishments provided for in this Law, without prejudice to other\npunishments provided for in Sharia.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-64",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 64,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "First: Employers’ Duties",
+    "text": "Upon expiration of the employment contract, the employer shall be required to:\n1. Give the worker, upon his request and free of charge, a certificate of work experience, indicating\ndate of his employment, date of end of work, his profession, and the last wage received. If the\ncertificate contains any remarks that are prejudicial to the worker’s reputation or likely to limit his\nemployment chances, the reasons shall be given.\n2. Return to the worker all certificates and documents he had submitted.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-17"
+    ]
+  },
+  {
+    "id": "labor_law-en-65",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 65,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "Second: Workers’ Duties",
+    "text": "In addition to the duties provided for in this Law, the regulations , and the decisions issued in\nimplementation thereof, the worker shall be required to:\n1. perform the work in accordance with the trade practice and the employer’s instructions provided\nthat such instructions do not conflict with the contract, the law, or public morality and that they do\nnot expose him to any undue hazards;\n2. take due care of the employer’s machinery, tools, supplies, and raw materials which are placed at\nhis disposal or in his custody and return unused materials to the employer;\n3. abide by proper conduct and ethical norms during work;\n4. extend all assistance and help without making it contingent on additional pay in cases of disasters\nor hazards threatening the workplace or the persons working therein;\n5. undergo, upon the employer’s request, the medical examinations required prior to or during\nemployment to ensure that he is free from occupational or communicable diseases; and\n6. keep confidential the technical, trade, and industrial secrets of the materials he produces or those\nto which he directly or indirectly contributes to the production thereof, as well as all trade secrets\nrelated to the wo rk or establishment, the disclosure of which is likely to cause damage to the\nemployer’s interests.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-66",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 66,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "Third: Disciplinary Rules",
+    "text": "The disciplinary penalties that an employer may inflict on a worker are as follows:\n1. Warnings.\n2. Fines.\n3. Withholding or postponing a raise for a period not exceeding one year if prescribed by the\nemployer.\n4. Postponement of a promotion for a period not exceeding one year if prescribed by the employer.\n5. Suspension from work and withholding wages.\n6. Dismissal from work in cases set forth by the law.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-67",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 67,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "Third: Disciplinary Rules",
+    "text": "An employer may not inflict on a worker a penalty not provided for in this Law or in the work\norganization regulation.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-68",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 68,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "Third: Disciplinary Rules",
+    "text": "A penalty shall not be made harsher in the event of a repeated violation if 180 days have elapsed since\nthe previous violation was committed, as of the date the worker is informed of the penalty for that\nviolation.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-69",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 69,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "Third: Disciplinary Rules",
+    "text": "A worker may not be accused of any violation discovered after the elapse of more than 30 days, nor\nshall he be subjecte d to a disciplinary penalty after the elapse of more than 30 days from the\nconclusion of the investigation and establishment of the worker’s guilt.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-70",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 70,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "Third: Disciplinary Rules",
+    "text": "A worker may not be subjected to a disciplinary penalty for an act committed outside the workplace\nunless such act is related to the job, the employer, or the manager in -charge. Nor may a worker be\nfined for a single violation an amount in excess of a five -day wage, and not more than one penalty\nshall be applied for the same violation. No more than t he equivalent of a five -day wage shall be\ndeducted from his wage in one month in the payment of fines, and his suspension from work without\npay may not exceed five days a month.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-71",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 71,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "Third: Disciplinary Rules",
+    "text": "A disciplinary action may not be imposed on a worker except after notifying him in writing of the\nallegations, interrogating him, hearing his defense, and recording the same in minutes to be kept in\nhis file. The interrogation may be verbal in minor violations the penalty for which does not exceed a\nwarning or the deduct ion of an amount equivalent to one -day wage. This shall be recorded in the\nminutes.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-72",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 72,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "Third: Disciplinary Rules",
+    "text": "The worker shall be notified in writing of the penalty decision imposed against him. If he refuses to\nreceive the same or if he is absent, the notice shall be sent to the address shown in his file by registered\nmail. The worker may object to the decision of imposing the penalty upon him within 15 days,\nexcluding official holidays, from the date of notifying him of the final decision. The objection shall\nbe filed with the Commission for the Settlement of Labor Disputes which shall be required to issue\nits decision within 30 days from the date of registering the objection.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-78"
+    ]
+  },
+  {
+    "id": "labor_law-en-73",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 73,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 2: Duties and Disciplinary Rules",
+    "section": "Third: Disciplinary Rules",
+    "text": "Fines imposed on the workers shall be entered in a special record, showing the wor ker’s name, his\nwages, the amount of the fine, reasons and date of the fine. Such fines may not be disposed of except\nfor the benefit of the establishment’s workers, upon the Ministry’s approval.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-18"
+    ]
+  },
+  {
+    "id": "labor_law-en-74",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 74,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 3: Termination of an Employment Contract",
+    "section": null,
+    "text": "An employment contract shall terminate in the following cases:\n1. If both parties agree to terminate it, provided that the worker’s consent be in writing.\n2. If the term specified in the contract expires, unless the contract has been explicitly renewed in\naccordance with the provisions of this Law in which case it shall remain in force until the expiry\nof its term.\n3. At the discretion of either party in indefinite term contracts.\n4. The worker attains the age of retirement, which is 60 years for males and 55 years for females,\nunless the two parties agree upon continuing work after this age. The retirement age may be\nreduced in cases of early retirement as provided for in the work organization regulation. If it is a\nfixed-term employment contract which extends beyond the retirement age, it shall terminate at the\nend of its term.\n5. Force majeure.\nThe provisions of paragraph (4) of this Article shall apply two years after this Law enters into force.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-19",
+      "labor_law-en-amd-49",
+      "labor_law-en-amd-79"
+    ]
+  },
+  {
+    "id": "labor_law-en-75",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 75,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 3: Termination of an Employment Contract",
+    "section": null,
+    "text": "If the contract is of an indefinite term, either party may terminate it for a valid reason to be specified\nin a written notice to be served to the other party at least 30 days prior to the termination date if the\nworker is paid monthly and not less than 15 days for others.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-20",
+      "labor_law-en-amd-80"
+    ]
+  },
+  {
+    "id": "labor_law-en-76",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 76,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 3: Termination of an Employment Contract",
+    "section": null,
+    "text": "If the party terminating the contract does not observe the period provided for in Article 75  of this\nLaw, such party shall be required to pay the other party compensation equal to the worker’s wage for\nthe duration of the notice or the balance thereof. The last wage received by the worker shall serve as\nthe basis for estimating the compensation for workers who are paid by the time frame criterion.\nFor workers who are paid by another criterion, the estimation shall take into account the provisions\nof Article 96 of this Law.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-21"
+    ]
+  },
+  {
+    "id": "labor_law-en-77",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 77,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 3: Termination of an Employment Contract",
+    "section": null,
+    "text": "If the contract is terminated for an invalid reason, the party who is harmed by such termination shall\nbe entitled to indemnity to be assessed by the Commission for the Settlement of Labor Disputes,\ntaking into account the term ination circumstances and actual and potential material and moral\ndamages sustained.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-22"
+    ]
+  },
+  {
+    "id": "labor_law-en-78",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 78,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 3: Termination of an Employment Contract",
+    "section": null,
+    "text": "A worker who has been dismissed from work without valid reason may demand reinstatement. Such\nclaims shall be considered in accordance with the provisions of th is Law and the Litigation\nRegulations before the Commissions for the Settlement of Labor Disputes.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-23"
+    ]
+  },
+  {
+    "id": "labor_law-en-79",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 79,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 3: Termination of an Employment Contract",
+    "section": null,
+    "text": "An employment contract shall not expire by the death of the employer unless his person has been\ntaken into consideration in concluding the contra ct, but shall expire with the death or incapacity of\nthe worker pursuant to a medical report approved by the competent health authority or the authorized\nphysician designated by the employer.",
+    "status": "original",
+    "amendments": [
+      "labor_law-en-amd-81"
+    ]
+  },
+  {
+    "id": "labor_law-en-80",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 80,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 3: Termination of an Employment Contract",
+    "section": null,
+    "text": "An employer may not terminate the contract without an  award, advance notice or indemnity except\nin the following cases, and provided that he gives the worker a chance to state his reasons for\nobjecting to the termination:\n1. If, during or by reason of the work, the worker assaults the employer, the manager in-charge or\nany of his superiors.\n2. If the worker fails to perform his essential obligations arising from the employment contract, or to\nobey legitimate orders, or if, in spite of written warnings, he deliberately fails to observe the\ninstructions related t o the safety of work and workers as may be posted by the employer in a\nprominent place.\n3. If it is established that the worker has committed a misconduct or an act infringing on honesty or\nintegrity.\n4. If the worker deliberately commits any act or default with  the intent to cause material loss to the\nemployer, provided that the latter shall report the incident to the appropriate authorities within\ntwenty-four hours from being aware of such occurrence.\n5. If the worker resorts to forgery in order to obtain the job.\n6. If the worker is hired on probation.\n7. If the worker is absent without valid reason for more than 20 days in one year or for more than 10\nconsecutive days, provided that the dismissal be preceded by a written warning from the employer\nto the worker if the latter is absent for 10 days in the first case and for five days in the second.\n8. If the worker unlawfully takes advantage of his position for personal gain.\n9. If the worker discloses work-related industrial or commercial secrets.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-24"
+    ]
+  },
+  {
+    "id": "labor_law-en-81",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 81,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 3: Termination of an Employment Contract",
+    "section": null,
+    "text": "Without prejudice to all of his statutory rights, a worker may leave his job without notice in any of\nthe following cases:\n1. If the employer fails to fulfill his essential contractual or statutory obligations towards the worker.\n2. If the employer or his representative resorts to fraud at the time of contracting with respect to work\nconditions and circumstances.\n3. If the employer assigns the worker, without his consent, to perform work which is essentially\ndifferent from the agreed upon work and in violation of the provisions of Article 60 of this Law.\n4. If the employer, a family member thereof, or the manager in -charge commits a violent assault or\nan immoral act against the worker or any of his family members.\n5. If the treatment of the employer or the manager in-charge is characterized by cruelty, injustice, or\ninsult.\n6. If there exists in the workplace a serious hazard threatening the safety or health of the worker,\nprovided that the employer is aware thereof but fails to take measures indicating its removal.\n7. If the employer or his repr esentative, through his actions and particularly his unjust treatment or\nviolation of the terms of the contract, causes the worker to appear as the party terminating the\ncontract.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-82",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 82,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 3: Termination of an Employment Contract",
+    "section": null,
+    "text": "An employer may not terminate the worker’s services on account of illness prior to availing him of\nthe period designated for sick leave as provided for in this Law. The worker shall have the right to\nrequest that his sick leave be combined with his annual leave.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-83",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 83,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 3: Termination of an Employment Contract",
+    "section": null,
+    "text": "If the work assigned to the worker allows him to get acquainted with the employer’s customers, or to\nhave access to his business secrets, the employer may require the worker in the contract not to\ncompete with him or reveal his secrets upon expiration of the contract. For this condition to be valid,\nit shall be in writing and specific in terms of time, place and type of work and to the extent required\nto protect the legitimate interests of the employer. In all cases, the duration of such agreement shall\nnot exceed two years from the date of termination of the relationship between the two parties.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-25"
+    ]
+  },
+  {
+    "id": "labor_law-en-84",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 84,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 4: End-of-Service Award",
+    "section": null,
+    "text": "Upon the end of the employment relation, the employer shall pay the worker an end-of-service award\nequivalent to the amount of a half-month wage for each of the first five years and a one-month wage\nfor each of the following years. The end-of-service award shall be calculated on the basis of the last\nwage and the worker shall be entitled to an end -of-service award for the portions of the year in\nproportion to the time spent on the job.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-85",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 85,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 4: End-of-Service Award",
+    "section": null,
+    "text": "If the employment relation ends due to the worker’s resignation, he shall, in this case, be entitled to\none third of the award after service of not less than two consecutive years and not more than five\nyears, to two thirds if his service is in excess of five consecutive years but less than 10 years, and to\nthe full award if his service amounts to 10 years or more.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-86",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 86,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 4: End-of-Service Award",
+    "section": null,
+    "text": "As an exception to the provisions of Article 8 of this Law, it may be agreed that the wage used as a\nbasis for calculating the end-of-service award does not include all or some of the commissions, sales\npercentages, and similar wage components paid to the worker which are by their nature subject to\nincrease or decrease.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-87",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 87,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 4: End-of-Service Award",
+    "section": null,
+    "text": "As an exception to the  provisions of Article 85 of this Law, the worker shall be entitled to the full\nend-of-service award if he leaves the work due to a force majeure beyond his control. A female\nworker shall likewise be entitled to the full award if she ends her contract within six months from the\ndate of her marriage or three months from the date of giving birth.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-88",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 88,
+    "part": "Part 5: Work Relations",
+    "chapter": "Chapter 4: End-of-Service Award",
+    "section": null,
+    "text": "Upon the end of the worker’s service, the employer shall pay his wages and settle his entitlements\nwithin a maximum period of one week from the date of t he end of the contractual relation. If the\nworker ends the contract, the employer shall settle all his entitlements within a period not exceeding\ntwo weeks. The employer may deduct any work -related debt due to him from the worker’s\nentitlements.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-89",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 89,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 1: Wages",
+    "section": null,
+    "text": "The Council of Ministers may, when necessary and upon a proposal by the Minister, set a minimum\nwage.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-90",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 90,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 1: Wages",
+    "section": null,
+    "text": "1. The worker’s wages and all other entitlements shall be paid in the Country’s off icial currency.\nWages shall be paid during working hours and at the workplace in accordance with the following\nprovisions:\n1.1 Workers paid on a daily basis shall be paid at least once a week.\n1.2 Workers paid on a monthly basis shall be paid once a month.\n1.3 If the work is done by the piece and requires a period of more than two weeks, the worker shall\nreceive a payment each week commensurate with the completed portion of the work. The balance\nof the wage shall be paid in full during the week following delivery of the work.\n1.4 In cases other than the above, the worker’s wages shall be paid at least once a week.\n2. Wages may be paid through accredited banks in the Kingdom, with the consent of the worker,\nprovided that their due dates do not exceed the dates specified above.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-26"
+    ]
+  },
+  {
+    "id": "labor_law-en-91",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 91,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 1: Wages",
+    "section": null,
+    "text": "1. If the worker, as a result of his own fault or violation of the employer’s instructions and not as a\nresult of a third party’s fault or a force majeure, causes loss, damage or destruction to machineries\nor products owned by the e mployer while in his custody, the employer may deduct from the\nworker’s wage the amount necessary for repair or restoration to the original condition, provided\nthat such deductions do not exceed a five-day wage per month. The employer may file a grievance,\nif necessary, demanding more deductions if the worker has other properties from which collections\nmay be made. The worker may file a grievance with the Commission for the Settlement of Labor\nDisputes regarding the allegations leveled at him or the employer’s estimation of the damages. If\nthe Commission rules that the employer is not entitled to claim such deductions or if it awards the\nemployer a lower amount, the employer shall return to the worker the amounts unjustifiably\ndeducted, within seven days from the date of the award.\n2. Either party shall file its grievance within 15 work days; otherwise, it shall forfeit his right thereto.\nFor the employer, the date of filing the grievance shall be from the date the occurrence is\ndiscovered, and for the worker from the date of his notification of the same by the employer.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-92",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 92,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 1: Wages",
+    "section": null,
+    "text": "No amount shall be deducted from a worker’s wages against private rights without his written\nconsent, except in the following cases:\n1. Repayment of loans extended by the employer, provided that such deductions do not exceed 10%\nof his wage.\n2. Social insurance or any other contributions due on workers as provided for by law.\n3. Worker’s contributions to thrift funds or loans due to such funds.\n4. Installments of any scheme undertaken by the employer involving home ownership programs or\nany other privilege.\n5. Fines imposed on the worker on account of violations he commits, as well as deductions made for\ndamages he causes.\n6. Any debt collected in implementation of a judicial judgment, provided that the monthly deduction\nshall not exceed one quarter of the worker's wage, unless the judgment provides otherwise.\nFirst to be collected is alimony, followed by food, clothing, and accommodation debts, before other\ndebts.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-93",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 93,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 1: Wages",
+    "section": null,
+    "text": "In all cases, deductions made may not exceed half the worker’s due wage, unless the Commission for\nthe Settlement of Labor Disputes determines that further deductions can be made or that the worker\nis in need of more than half his wage. In the latter case, the worker may not be given more than three\nquarters of his wage.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-94",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 94,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 1: Wages",
+    "section": null,
+    "text": "1. If any amount is deducted from a worker’s wages for reasons other than those specified in this\nLaw without his written consent, or if an employer delays, without a valid justification, paymen t\nof a worker’s wage beyond the due date set forth in the Law, the worker, his representative, or the\nhead of the competent labor office may submit a request to the Commission for the Settlement of\nLabor Disputes to order the employer to return to the work er any wrongfully-deducted amounts\nor to pay him his outstanding wages.\n2. Said Commission may, if it establishes that the employer has unjustifiably deducted said amounts\nor delayed the payment of wages, impose on the employer a fine not exceeding twice the amount\ndeducted from the worker’s wage or twice the outstanding wages.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-95",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 95,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 1: Wages",
+    "section": null,
+    "text": "1. If the employment contract or the work organization regulation does not provide for the wage\nbinding on the employer, the wage estimated for the same type of work in the establishment, if\nany, shall be adopted; otherwise, the wage shall be estimated in accordance with the norms of the\nprofession at the place where the work is performed. In the absence of such norms, the\nCommission for Settlement of Labor Disputes shall e stimate the wage in accordance with the\ndictates of justice.\n2. The same shall also apply in determining the type and scope of the service that the worker is\nrequired to render.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-96",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 96,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 1: Wages",
+    "section": null,
+    "text": "1. If the worker’s wage is determined on the basis of piecework or produ ctivity, the average wage\nwhich the worker receives for his actual work days during the last year of his service shall be used\nas the basis for calculating any entitlements determined for the worker under this Law.\n2. If the entire wage is the amounts received as commissions, percentages of sales, or the like which\nare by nature subject to increases or decreases, the daily average wage shall be calculated on the\nbasis of the amounts the worker receives for the actual work days, divided by them.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-97",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 97,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 1: Wages",
+    "section": null,
+    "text": "If a worker is detained or taken into custody by the competent authorities in cases related to work or\noccasioned by it, the employer shall continue to pay the worker 50% of the wage until the case is\ndecided, provided that the period of detention or custody shall not exceed 180 days. If said period\nexceeds that, the employer shall not be required to pay any portion of the wage for the excess period.\nIf the worker is acquitted or the investigation is closed for lack of evidence or invalidity thereof, the\nemployer shall return to the worker the amount previously deducted from his wage. However, if he\nis convicted, none of the payments made to him shall be recovered unless the judgment provides\notherwise.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-98",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 98,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 2: Working Hours",
+    "section": null,
+    "text": "A worker may not actually work for more than eight hours a day if the employer uses the daily work\ncriterion, or more than 48 hours a week if he uses the weekly criterion. During the month of Ramadan,\nactual working hours shall be reduced for Muslims to a maximum of six ho urs a day or 36 hours a\nweek.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-42"
+    ]
+  },
+  {
+    "id": "labor_law-en-99",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 99,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 2: Working Hours",
+    "section": null,
+    "text": "The number of working hours provided for in Article 98 of this Law may be raised to nine hours a\nday for certain categories of workers or in certain industries and jobs where the worker does not work\ncontinuously. It may likewise be reduced to seven hours a day for certain categories of workers or in\ncertain hazardous or harmful industries or jobs. Categories of workers, industries, and jobs referred\nto shall be determined pursuant to a decision by the Minister.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-43"
+    ]
+  },
+  {
+    "id": "labor_law-en-100",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 100,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 2: Working Hours",
+    "section": null,
+    "text": "In establishments where work is done in shifts, an employer may, with the Ministry’s approval,\nincrease the number of working hours to more than eight hours a day or 48 hours a week, provided\nthat the average working hours when calculated for thr ee weeks' time or less shall not be more than\neight hours a day or 48 hours a week.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-44"
+    ]
+  },
+  {
+    "id": "labor_law-en-101",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 101,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 3: Rest Periods and Weekly Rest Days",
+    "section": "First: Rest Periods",
+    "text": "Working hours and rest periods during the day shall be scheduled so that no worker shall work f or\nmore than five consecutive hours without a break of no less than thirty minutes each time during the\ntotal working hours for rest, prayer and meals, provided that a worker shall not remain at the\nworkplace for more than 11 hours a day.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-27"
+    ]
+  },
+  {
+    "id": "labor_law-en-102",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 102,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 3: Rest Periods and Weekly Rest Days",
+    "section": "First: Rest Periods",
+    "text": "The periods designated for rest, prayers, and meals shall not be included in the actual working hours.\nDuring such periods, the worker shall not be under the employer’s authority. The employer shall not\nrequire the worker to remain at the workplace during such breaks.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-103",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 103,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 3: Rest Periods and Weekly Rest Days",
+    "section": "First: Rest Periods",
+    "text": "The Minister may specify, pursuant to a decision by him, the cases and jobs where work shall continue\nwithout breaks, for technical reasons or operational conditions. In such cases and jobs, the employer\nshall allow prayer, meals, and rest periods to be scheduled during working hours by the management\nof the establishment.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-104",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 104,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 3: Rest Periods and Weekly Rest Days",
+    "section": "Second: Weekly Rest Days",
+    "text": "1. Friday shall be the weekly rest day for all workers.\nAfter notification of the competent labor office, the employer may replace this day for some of his\nworkers by any other day of the week. The employer shall allow the workers to perform their religious\nobligations. The weekly rest day may not be compensated by cash.\n2. The weekly rest day shall be at full pay and shall not be less than 24 consecutive hours.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-45"
+    ]
+  },
+  {
+    "id": "labor_law-en-105",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 105,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 3: Rest Periods and Weekly Rest Days",
+    "section": "Second: Weekly Rest Days",
+    "text": "As an exception to the provisions of Article 104 of this Law, in remote areas and in jobs where the\nnature of work and operational conditions require continuous work, weekly rest periods accruing to\nthe worker may be consolidated for up to eight weeks if the employer and the workers agree to that\neffect, subject to the Ministry’s approval. In calculating consolidated weekly rest periods, it shall be\ntaken into consideration that said periods begin at the hour the workers arrive at the nearest city with\ntransportation services and end at the hour the workers return to it.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-106",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 106,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 3: Rest Periods and Weekly Rest Days",
+    "section": "Second: Weekly Rest Days",
+    "text": "An employer may not comply with the provisions of Articles 98, 101, and 104(1) of this Law, in the\nfollowing cases:\n1. Annual inventory activities, preparation of the budget, liquidation, closing of accounts, and\npreparations for discounts and seasonal sales, provided that the number of days during which the\nworkers work shall not exceed 30 days a year.\n2. If the work is intended to prevent a hazardous accident, remedy its impact, or avoid an imminent\nloss of perishable materials.\n3. If the work is intended to meet unusual work pressure.\n4. Eids, other seasons and occasions, and seasonal activities specified pursuant to a decision by the\nMinister.\nIn all of the above cases, actual working hours shall not exceed 10 hours a day or 60 hours a week.\nThe maximum overtime hours allowed per year shall be determined by a decision of the Minister.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-107",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 107,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 3: Rest Periods and Weekly Rest Days",
+    "section": "Second: Weekly Rest Days",
+    "text": "1. The employer shall pay the worker for each overtime hour the hourly rate of his basic wage plus\n50% thereof.\n2. If the establishment is operated on the basis of weekly working hours, the hours in excess of the\nhours taken as the criterion shall be deemed overtime hours.\n3. All working hours performed during holidays and Eids shall be deemed overtime hours.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-82"
+    ]
+  },
+  {
+    "id": "labor_law-en-108",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 108,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 3: Rest Periods and Weekly Rest Days",
+    "section": "Second: Weekly Rest Days",
+    "text": "The provisions of Articles 98 and 101 of this Law shall not apply to the following cases:\n1. Persons occupying high positions of authority in management and policy, if such positions gr ant\nthe persons occupying them authority over workers.\n2. Preparatory or supplementary work which must be completed before the commencement or after\nthe end of work.\n3. Work that is intermittent by necessity.\n4. Guards and janitors, excluding civil security guards.\nThe Regulations shall specify the jobs listed under paragraphs (2), (3), and (4) of this Article and\ntheir maximum working hours.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-109",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 109,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 4: Leaves",
+    "section": null,
+    "text": "1. A worker shall be entitled to a prepaid annual leave of not less than 21 days, to be increased to a\nperiod of not less than 30 days if the worker spends five consecutive years in the service of the\nemployer.\n2. A worker shall enjoy his leave in the year it i s due. He may not forgo it or receive cash in lieu\nduring his period of service. The employer may set the dates of such leaves according to work\nrequirements or may grant them in rotation to ensure the smooth progress of work. The employer\nshall notify the worker of the date of his leave in sufficient time of not less than 30 days.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-110",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 110,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 4: Leaves",
+    "section": null,
+    "text": "1. A worker may, with the employer’s approval, postpone his annual leave or days thereof to the\nfollowing year.\n2. An employer may postpone, for a period of not more than 90 days, the worker’s leave after the\nend of the year it is due if required by work conditions. If work conditions require extension of the\npostponement, the worker’s consent must be obtained in writing. Such postponement shall not,\nhowever, exceed the end of the year following the year the leave is due.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-111",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 111,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 4: Leaves",
+    "section": null,
+    "text": "A worker shall be entitled to a wage for the accrued days of the leave if he leaves the work without\nusing such leave. This applies to the period of work for which he has not used his leave. He  is also\nentitled to a leave pay for the parts of the year in proportion to the part he spent at work.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-112",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 112,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 4: Leaves",
+    "section": null,
+    "text": "Each worker shall be entitled to a fully paid leave on Eids and occasions specified in the Regulations.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-113",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 113,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 4: Leaves",
+    "section": null,
+    "text": "A worker shall be entitled to one day of paid leave in the case of childbirth and three days for marriage\nor in the case of the death of a spouse or one of his ascendants and descendants. The employer may\nrequest supporting documents for cases referred to.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-28",
+      "labor_law-en-amd-83"
+    ]
+  },
+  {
+    "id": "labor_law-en-114",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 114,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 4: Leaves",
+    "section": null,
+    "text": "A worker shall be entitled to a paid leave of not less than 10 days and not more than 15 days, including\nEid Al-Adha holiday, to perform Hajj only once during his service if he has not performed it before.\nTo be eligible for this leave, the worker must have sp ent at least two consecutive years of service\nwith the employer. The employer may determine the number of workers who shall be given this leave\nannually in accordance with work requirements.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-115",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 115,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 4: Leaves",
+    "section": null,
+    "text": "A worker enrolled in an educational institution shall  have the right to a fully paid leave to sit for an\nexamination of an unrepeated year. Days of leave shall be based on the actual number of the\nexamination days. However, for the examinations of a repeated year, the worker shall be entitled to\nunpaid leave to sit for the examinations. The employer may require the worker to submit documents\nin support of the leave application as well as proof of having taken the examination. The worker shall\napply for the leave at least fifteen days ahead of the due date. Without prejudice to disciplinary action,\nthe worker shall be denied the wage if it is proven that he had not taken the examination.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-29"
+    ]
+  },
+  {
+    "id": "labor_law-en-116",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 116,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 4: Leaves",
+    "section": null,
+    "text": "A worker, subject to the employer’s approval, may obtain an unpaid leave for a duration to be agreed\nupon by the two parties. The employment contract shall be deemed suspended for the duration of the\nleave in excess of 20 days, unless both parties agree otherwise.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-117",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 117,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 4: Leaves",
+    "section": null,
+    "text": "A worker whose illness has been proven shall be eligible for a paid sick leave for the first 30 days,\nthree quarters of the wage for the next 60 days, and without pay for the following 30 days, during a\nsingle year, whether such leaves are continuous or intermittent. A single year shall mean the year\nwhich begins from the date of the first sick leave.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-118",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 118,
+    "part": "Part 6: Work Conditions and Circumstances",
+    "chapter": "Chapter 4: Leaves",
+    "section": null,
+    "text": "A worker may not work for another employer, while enjoying any of the leaves provided for in this\nChapter. If the employer proves that the worker has violated this provision, he may deprive him of\nhis wages for the duration of the leave or recover any wages previously paid to him.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-119",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 119,
+    "part": "Part 7: Part-Time Work",
+    "chapter": null,
+    "section": null,
+    "text": "Full-time workers who are affected by a collective temporary reduction in their normal working hours\nfor economic, technical, or structural reasons shall not be considered part-time workers.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-120",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 120,
+    "part": "Part 7: Part-Time Work",
+    "chapter": null,
+    "section": null,
+    "text": "The Minister shall issue the necessary rules and controls for organizing part -time work, indicating\ntherein the obligations of part -time workers and employers. To the exclusion of the protection\nextended to similar full -time workers in terms of occupational health and safety and work injuries,\nthe provisions of this Law shall apply only to the extent determined by the Minister.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-121",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 121,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 1: Protection Against Occupational Hazards",
+    "section": null,
+    "text": "An employer shall maintain the establishment in a clean and hygienic condition. He shall provide\nlighting, supply potable and washing water, and comply with other rules, measures, and standards of\noccupational protection, health, and safety in accordance with what is specified in the Minister’s\ndecision.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-122",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 122,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 1: Protection Against Occupational Hazards",
+    "section": null,
+    "text": "An employer shall take the necessary precautions to protect workers against hazards, occupational\ndiseases, and the machinery in use, and shall ensure work safety and protection. He shall post in a\nvisible place in the establishment the instructions related to work and workers’ safety in Arabic and,\nwhen necessary, in any other language the workers understand. The employer may not charge the\nworkers or deduct from their wages any amounts for the provision of such protection.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-123",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 123,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 1: Protection Against Occupational Hazards",
+    "section": null,
+    "text": "An employer shall inform the worker, prior to engaging in the work, of the hazards of his job and\nsaid employer shall require him to use the prescribed protective equipment. The employer shall\nsupply workers with the appropriate personal protective gear and train them on its use.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-124",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 124,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 1: Protection Against Occupational Hazards",
+    "section": null,
+    "text": "A worker shall use and preserve the personal protective equipment designated for each process and\nshall adhere to the instructions established to protect his health against injuries and diseases. He shall\nrefrain from any action or omission that may lead to failure to implement the instructions, or misuse\nor impairment of the devices provided to protect the workplace as well as the health and safety of\nfellow workers.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-125",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 125,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 1: Protection Against Occupational Hazards",
+    "section": null,
+    "text": "An employer shall take necessary pr ecautions for protection against fire and provide the technical\nmeans to combat it, including safety exits which shall be maintained in working condition at all times.\nHe shall post in a visible location in the workplace detailed instructions for fire prevention devices.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-126",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 126,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 1: Protection Against Occupational Hazards",
+    "section": null,
+    "text": "An employer shall be responsible for emergencies and accidents which may affect persons, other than\nhis workers, who enter the workplace by virtue of their official duties or with the approval of the\nemployer or his agents, if such emergencies and accidents are due to negligence in taking the technical\nprecautions required by the nature of his work, and he shall compensate them for damage and harm\nthey may sustain in accordance with the general laws.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-127",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 127,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 2: Protection Against Major Industrial Accidents",
+    "section": null,
+    "text": "The provisions of this Chapter shall apply to high risk establishments.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-128",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 128,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 2: Protection Against Major Industrial Accidents",
+    "section": null,
+    "text": "1. The term “high risk establishment” shall mean a n establishment which produces, prepares,\ndisposes of, handles, uses, or stores, on a permanent or temporary basis, one or more hazardous\nsubstances, or categories of these substances, in quantities that exceed permissible limits the\nexceeding of which results in listing the establishment among the high risk establishments.\n2. The term “hazardous substance” shall mean any substance or mixture of substances that constitutes\na hazard on account of its chemical, physical, or toxic properties either alone or in combination\nwith other substances.\n3. The term “major accident” shall mean any sudden occurrence, such as a major leak, fire, or\nexplosion in the course of an activity within a high risk establishment and which involves one or\nmore hazardous substances posing a great immediate or potential danger to the workers, the public,\nor the environment.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-129",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 129,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 2: Protection Against Major Industrial Accidents",
+    "section": null,
+    "text": "The Ministry shall establish controls to identify high risk establishments according to the list of\nhazardous substances, their categories, or both.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-130",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 130,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 2: Protection Against Major Industrial Accidents",
+    "section": null,
+    "text": "Employers shall coordinate with the Ministry to determine the status of their establishments on the\nbasis of the controls referred to in Article 129 of this Law.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-131",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 131,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 2: Protection Against Major Industrial Accidents",
+    "section": null,
+    "text": "The Minister shall issue the regulations and decisions that include the necessary arrangements at\nestablishment level for protection against major hazards, related duties of employers, arrangements\nfor protecting the public and the environment outside th e site of each high risk establishment,\nworker’s rights and duties, and other measures necessary to prevent major accidents, minimize the\nrisks of their occurrence, and mitigate their impacts",
+    "status": "original",
+    "amendments": [
+      "labor_law-en-amd-53"
+    ]
+  },
+  {
+    "id": "labor_law-en-132",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 132,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 3: Work Injuries",
+    "section": null,
+    "text": "The provisions of this C hapter shall not apply to the establishments subject to the Occupational\nHazards Branch of the Social Insurance Law.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-133",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 133,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 3: Work Injuries",
+    "section": null,
+    "text": "If a worker sustains a work injury or an occupational disease, the employer shall be required to treat\nhim and assume, direc tly or indirectly, all necessary expenses, including hospitalization, medical\nexaminations and tests, radiology, prosthetic devices, and transportation expenses to treatment\ncenters.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-134",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 134,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 3: Work Injuries",
+    "section": null,
+    "text": "An injury shall be deemed a work injury in accordance with the provisions of the Social Insurance\nLaw. Occupational diseases shall also be considered work injuries and the date of the first medical\ndiagnosis of the disease shall be treated tantamount to the date of injury.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-135",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 135,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 3: Work Injuries",
+    "section": null,
+    "text": "Any relapse or complication arising from an injury shall be deemed an injury and shall be treated as\nsuch in terms of aid and treatment.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-136",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 136,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 3: Work Injuries",
+    "section": null,
+    "text": "Occupational diseases shall be determined in accordance with the Occupational Diseases Schedule\nprovided for in the Social Insurance L aw. Degree of total or partial disability shall be determined\naccording to the Disability Percentage Guide provided for in said law.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-137",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 137,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 3: Work Injuries",
+    "section": null,
+    "text": "In the case of temporary disability arising from work injury, the injured party shall be entitled to\nfinancial aid equal to his full wage for 30 days, then 75% of the wage for the entire duration of his\ntreatment. If one year elapses or it is medically determined that the injured party’s chances of recovery\nare improbable or that he is not physically fit to work, his injury shall be deemed total disability. The\ncontract shall be terminated and the worker shall be compensated for the injury. The employer may\nnot recover the payments made to the injured worker during that year.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-30"
+    ]
+  },
+  {
+    "id": "labor_law-en-138",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 138,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 3: Work Injuries",
+    "section": null,
+    "text": "If an injury results in a permanent total disability or the death of the injured person, the injured person\nor his eligible beneficiaries shall be entitled to a compensation equal to his wages for three years,\nwith a minimum of 54,000 riyals.\nIf the injury results in a permanent par tial disability, the injured person shall be entitled to a\ncompensation equal to the percentage of the estimated disability in accordance with the approved\nDisability Percentage Guide schedule multiplied by the amount of compensation for permanent total\ndisability.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-139",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 139,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 3: Work Injuries",
+    "section": null,
+    "text": "An employer shall not be required to comply with the provisions of Articles 133, 137, and 138 of this\nLaw if any of the following is established:\n1. If a worker deliberately injures himself.\n2. If an injury is caused by intentional misconduct on the part of the worker.\n3. If a worker refuses to be examined by a physician or refuses to accept treatment by the physician\ndesignated by the employer without a valid reason.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-140",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 140,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 3: Work Injuries",
+    "section": null,
+    "text": "Liability of previous employers of a worker suffering from an o ccupational disease shall be\ndetermined in light of the medical report of the attending physician. Previous employers shall be\nrequired to pay the compensation provided for in Article 138 of this Law, each in proportion to the\nperiod said worker spent in h is service, provided that the industries or occupations they engage in\ncause the disease the worker suffers from.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-141",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 141,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 3: Work Injuries",
+    "section": null,
+    "text": "Procedures for reporting work injuries shall be determined pursuant to a decision by the Minister.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-142",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 142,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 4: Medical and Social Services",
+    "section": null,
+    "text": "An employer shall make available one or more medical aid cabinets, supplied with drugs and other\nnecessities required for first aid.\nThe Regulations shall specify the contents of such cabinets of first aid means, and the number of such\nmeans and quantities of drugs, and shall also regulate the method of keeping them and the conditions\nand requirements to be met by first aid providers.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-143",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 143,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 4: Medical and Social Services",
+    "section": null,
+    "text": "An employer shall assign one or more physicians to provide, at least once a year, a comp rehensive\nmedical examination for his workers who are exposed to any of the occupational diseases listed in\nthe Schedules of Occupational Diseases provided for in the Social Insurance Law. The findings of\nthe examination shall be kept in the employer’s records as well as the workers’ files.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-144",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 144,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 4: Medical and Social Services",
+    "section": null,
+    "text": "An employer shall provide his workers with preventive and therapeutic health care in accordance\nwith the standards set forth by the Minister, taking into consideration whatever is provided for by the\nCooperative Health Insurance Law.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-145",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 145,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 4: Medical and Social Services",
+    "section": null,
+    "text": "An employer may, subject to the Minister’s approval, set up a savings and thrift fund, provided that\nthe workers’ contribution thereto is optional. The provisions regulating the operation of such funds\nshall be made public.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-146",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 146,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 4: Medical and Social Services",
+    "section": null,
+    "text": "An employer shall provide at his own expense all or some of the following, as may be determined by\nthe Minister, for those who work in remote locations:\n1. Stores for selling food, clothing, and other necessities at moderate prices in places where such\nstores are not available.\n2. Suitable recreational and educational services and sports facilities annexed to the workplace.\n3. Necessary medical arrangements to protect the workers’ health and provide comprehensive\ntreatment for their families (Family shall mean the worker’s spouse, and the children and parents\nresiding with him).\n4. Schools for the workers’ children in the absence of sufficient schools in the area.\n5. Mosques or prayer areas at the workplace.\n6. Literacy programs for the workers.\nThe Regulations shall specify remote locations.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-147",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 147,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 4: Medical and Social Services",
+    "section": null,
+    "text": "An employer operating in remote locations, mines, quarries, and oil exploration centers shall provide\nhis workers with accommodation, camps, and meals.\nThe Minister shall determine, pursuant to a decision by him, the conditions and specifications of the\naccommodation and camps as well as the charges for the accommodation, the number of meals,\nquantities and kinds of food and related conditions, cost of meals to the worker, and any other\nrequirements necessary for the workers’ health.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-148",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 148,
+    "part": "Part 8: Protection Against Occupational Hazards, Major Industrial Accidents and Work Injuries, and Health and Social Services",
+    "chapter": "Chapter 4: Medical and Social Services",
+    "section": null,
+    "text": "An employer shall provide means for transporting his workers from their place of residence or from\na certain gathering point to the places of work and bringing them back daily, if the places of work are\nnot served by regular means of transportation at times compatible with the working hours.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-149",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 149,
+    "part": "Part 9: Employment of Women",
+    "chapter": null,
+    "section": null,
+    "text": "Taking into consideration the provisions of Article 4 of this Law, women shall work in all fields\nsuitable to their nature. It is prohibited to employ women in hazardous jobs or industries. The Minister\npursuant to a decision by him shall determine the professions and jobs that are deemed detrimental\nto health and are likely to expose women to specific risks; in which cases, women’s employment shall\nbe prohibited or restricted under certain terms.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-31",
+      "labor_law-en-amd-52"
+    ]
+  },
+  {
+    "id": "labor_law-en-150",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 150,
+    "part": "Part 9: Employment of Women",
+    "chapter": null,
+    "section": null,
+    "text": "Women may not work during a period of night the duration of which is not less than 11  consecutive\nhours, except in cases determined pursuant to a decision by the Minister.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-52"
+    ]
+  },
+  {
+    "id": "labor_law-en-151",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 151,
+    "part": "Part 9: Employment of Women",
+    "chapter": null,
+    "section": null,
+    "text": "A female worker shall be entitled to a maternity leave for the four weeks immediately preceding the\nexpected date of delivery and the subsequent six weeks. The probable date of delivery shall be\ndetermined by the physician of the establishment or pursuant to a medical report certified by a health\nauthority. A woman may not work during the six weeks immediately following delivery.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-32",
+      "labor_law-en-amd-84"
+    ]
+  },
+  {
+    "id": "labor_law-en-152",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 152,
+    "part": "Part 9: Employment of Women",
+    "chapter": null,
+    "section": null,
+    "text": "During the maternity leave, an employer shall pay the female worker half her wage if she has been in\nhis service for one year or more, and a full wage if she has served for three years or more as of the\ndate of commencement of such leave. A female worker shall not be paid any wages during her regular\nannual leave if she has enjoyed in the same year a matern ity leave with full wage. She shall be paid\nhalf her wage during the annual leave if she has enjoyed in the same year a maternity leave at half\nwage.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-32"
+    ]
+  },
+  {
+    "id": "labor_law-en-153",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 153,
+    "part": "Part 9: Employment of Women",
+    "chapter": null,
+    "section": null,
+    "text": "An employer shall provide medical care for female workers during pregnancy and delivery.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-154",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 154,
+    "part": "Part 9: Employment of Women",
+    "chapter": null,
+    "section": null,
+    "text": "When a female worker returns to work following a maternity leave, she shall be entitled, in addition\nto the rest periods granted to all workers, to a rest period or periods not exceeding in aggregate one\nhour a day for nursing her infant. Such  period or periods shall be calculated as part of the actual\nworking hours and shall not entail any reduction in wage.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-155",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 155,
+    "part": "Part 9: Employment of Women",
+    "chapter": null,
+    "section": null,
+    "text": "An employer may not terminate the employment of a female worker or give her a warning of the\nsame while on maternity leave.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-50"
+    ]
+  },
+  {
+    "id": "labor_law-en-156",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 156,
+    "part": "Part 9: Employment of Women",
+    "chapter": null,
+    "section": null,
+    "text": "An employer may not terminate the employment of a female worker during illness resulting from\npregnancy or delivery, and such illness shall be established by a certified medical report, provided\nthat the period of her absence does not exceed 180 days. The employment of such female worker may\nnot be terminated during the 180 days preceding the expected date of delivery in the absence of one\nof the legitimate causes provided for in this Law.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-51"
+    ]
+  },
+  {
+    "id": "labor_law-en-157",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 157,
+    "part": "Part 9: Employment of Women",
+    "chapter": null,
+    "section": null,
+    "text": "A female worker shall forfeit her entitlemen ts under the provisions of this Part if she works for\nanother employer during her authorized leave. In this case, the original employer may deprive her of\nher wage for the duration of the leave or recover any payments made to her.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-158",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 158,
+    "part": "Part 9: Employment of Women",
+    "chapter": null,
+    "section": null,
+    "text": "In all occupations and places where women are employed, the employer shall provide them with seats\nfor resting.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-159",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 159,
+    "part": "Part 9: Employment of Women",
+    "chapter": null,
+    "section": null,
+    "text": "1. An employer who employs 50 female workers or more shall provide them with a suitable place\nwith an adequate number of babysitters to look after  the female workers’ children under the age\nof six years, if the number of children reaches 10 or more.\n2. The Minister may require an employer who employs 100 women or more in a single city to set up\na nursery, either on his own or in conjunction with other employers in the same city, or\nalternatively, to contract with an existing nursery to care for the children of the female workers\nwho are under six years of age during work periods. In such case, the Minister shall set forth the\nterms and conditions regula ting such facilities as well as the charges imposed on the female\nworkers benefiting from this service.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-160",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 160,
+    "part": "Part 9: Employment of Women",
+    "chapter": null,
+    "section": null,
+    "text": "A female worker whose husband passes away shall be entitled to a fully paid leave for a minimum\nperiod of 15 days as of the date of death.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-33"
+    ]
+  },
+  {
+    "id": "labor_law-en-161",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 161,
+    "part": "Part 10: Employment of Minors",
+    "chapter": null,
+    "section": null,
+    "text": "Minors may not be employed in hazardous jobs or harmful industries, or in occupations or jobs that\nmay endanger their health, safety, or morals due to the nature or conditions of the same. The Minister\nshall specify such jobs, industries, and occupations pursuant to a decision issued by him.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-162",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 162,
+    "part": "Part 10: Employment of Minors",
+    "chapter": null,
+    "section": null,
+    "text": "1. Any person under the age of 15 years may not be employed or allowed to enter places of work.\nThe Minister may, pursuant to a decision by him, raise this age limit in certain industries or areas\nor for certain categories of minors.\n2. As an exception to paragraph (1) of this Article, the Minister may allow the employment or work\nof persons between 13 and 15 years of age in light works, subject to the following conditions:\n2.1 Such jobs shall not be potentially harmful to their health or growth.\n2.2 Such jobs shall not hinder their school attendance or their participation in orientation or\nvocational training programs, or impair their ability to benefit from their schooling.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-163",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 163,
+    "part": "Part 10: Employment of Minors",
+    "chapter": null,
+    "section": null,
+    "text": "Minors may not work during a period of night the duration of wh ich is not less than 12 consecutive\nhours, except in cases determined pursuant to a decision by the Minister.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-164",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 164,
+    "part": "Part 10: Employment of Minors",
+    "chapter": null,
+    "section": null,
+    "text": "Minors may not be made to perform actual work for more than six hours a day for all months except\nfor the month of Ramadan when the actual working hours shall not exceed four hours.\nWorking hours shall be organized so that a minor does not work for more than four consecutive hours\nwithout one or more periods, each not less than half an hour, for rest, food, and prayers, provided that\nthe minor does not remain at the workplace for more than seven hours.\nMinors may not be made to work during weekly rest days, Eids, official holidays, or annual vacations,\nnor shall they be subject to the exceptions provided for in Article 106 of this Law.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-165",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 165,
+    "part": "Part 10: Employment of Minors",
+    "chapter": null,
+    "section": null,
+    "text": "Prior to employing a minor, the employer shall obtain from him the following documents:\n1. The national identification card or an official birth certificate.\n2. A report of physical fitness for the required job issued by a competent physician and duly certified\nby a health authority.\n3. The consent of the minor’s guardian.\nSaid documents shall be kept in the minor’s personal file.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-166",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 166,
+    "part": "Part 10: Employment of Minors",
+    "chapter": null,
+    "section": null,
+    "text": "An employer shall notify the competent labor office of the employment of each minor within the first\nweek of such employment, and shall keep at the workplace a register for employed minors, showing\nthe name of the minor, his age, the full name of his guardian, his place of residence, and the date of\nhis employment.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-167",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 167,
+    "part": "Part 10: Employment of Minors",
+    "chapter": null,
+    "section": null,
+    "text": "The provisions provided for in this Part shall not apply to work undertaken by children and minors in\nschools for general, vocational, or technical education, and in other training institutions, nor shall\nthey apply to work undertaken in establishments by persons who are at least 14 years of age if such\nwork is performed in accordance with the conditions set forth by the Minister and the work constitutes\nan essential part of the following:\n1. An educational or training course the primary responsibility for which lies with a school or training\ninstitution.\n2. A training program all or the major part of which is implemented in an establishment if approved\nby the competent authority.\n3. An orientation program aimed at facilitating the selection of the career or type of training.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-168",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 168,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "In this Part, the following terms shall have the meanings assigned thereto, unless the context requires\notherwise:\nVessel: A floating craft registered in the Kingdom of Saudi Arabia, whose tonnage is not less than\n500 tons.\nVessel chandler: A natural person, or public or private establishment for whose account the vessel\nis being rigged.\nCaptain: A seafarer qualified to command a vessel and assume responsibility for it.\nSeafarer: A person working aboard a vessel on a marine employment contract.\nMarine employment contract:\nAn employment contract for a wage concluded between the vessel's owner or chandler or the\nrepresentative of either of them and a seafarer to work on board said vessel. Suc h contract shall be\nsubject to the provisions of this Law, unless they are in conflict with the provisions of this Part and\nthe decisions issued hereunder.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-85"
+    ]
+  },
+  {
+    "id": "labor_law-en-169",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 169,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "All persons working on a vessel shall be subject to the authority and orders of its captain.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-170",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 170,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "All employment contracts of seamen working on a vessel shall be entered in the vessel’s records or\nappended thereto. Such contracts shall be drafted in clear language, and shall indicate whether they\nare made for a specific period or for a single voyage. If the contract is made for a specific period, this\nperiod shall be clearly specified. If it is made for a single voyage, it shall specify the city or harbor\nwhere the voyage ends, and at what stage of unloading or loading the vessel at this harbor the contract\nterminates.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-171",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 171,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "A marine employment contract shall provide for the date and place of its conclusion, name of the\nchandler, name of the seafarer, his surname, age, nationality, and homeland, as well as the type of\nassigned work, method of performance, certification for work in sea navigation, personal marine card,\nwage, and the duration of the contract. If the contract is for a single voyage, it shall specify the city\nor harbor where the voyage ends and at what stage during t he unloading or loading of the vessel at\nthe harbor the work ends, and other details of the contract.\nSuch contract shall be made out in three copies, one copy for the vessel’s chandler, one for the captain,\nto be kept on board the vessel, and a copy for the seafarer.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-172",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 172,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "Work terms and rules aboard the vessel shall be posted in the crew’s quarters. These terms and rules\nshall include the following:\n1. Seamen’s obligations and duties, organization rules for work aboard the vessel, service timetables,\nand daily working hours.\n2. Obligations of the vessel’s chandler towards the seamen in respect of fixed wages, rewards, and\nother types of wage.\n3. Methods of suspending payment of wages and deductions therefrom and methods of advance\npayments.\n4. Place and time of settlement of wages as well as the final calculation thereof.\n5. Rules and ways for the provision of food and accommodation aboard the vessel.\n6. Treatment of seamen’s illnesses and injuries.\n7. Conduct of seamen and the conditions for their repatriation.\n8. Seamen’s paid annual leaves.\n9. End-of-service award and other indemnities payable upon termination or expiration of the\nemployment contract.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-173",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 173,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "A seafarer shall:\n1. have completed 18 years of age;\n2. hold a certificate allowing him to work in marine service; and\n3. be physically fit.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-174",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 174,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "All the seafarer’s entitlements shall be paid in the official currency. They may be paid in foreign\ncurrency if they become due while the vessel is outside territorial waters, subject to the seafarer's\napproval.\nThe seafarer may ask the employer to pay his due monetary wage to the person designated by him.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-175",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 175,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "If the voyage is cut short for any reason, voluntarily or forcibly, this shall not entail a reduction of\nthe wage of the seafarer employed on a marine employment contract for a single voyage.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-176",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 176,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "If the wage is set as a share of the profits or the proceeds of the vessel's charter, the seafarer shall not\nbe entitled to compensation if the voyage is cancelled nor to a wage increase if the voyage is delayed\nor extended. If the delay or extension is due to the action of the shippers, the seafarer shall be entitled\nto compensation from the chandler.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-177",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 177,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "A seafarer shall be eligible for pay, through the day of occurrence, if the ship is captured , sinks, or\nbecomes unseaworthy.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-178",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 178,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "Seamen shall be provided with food and accommodation at the expense of the vessel chandler. This\nshall be regulated by a decision issued by the Minister.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-86"
+    ]
+  },
+  {
+    "id": "labor_law-en-179",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 179,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "Working hours aboard the vessel while on hi gh seas shall not exceed 14 hours in a 24 -hour period\nand not more than 72 hours in a seven-day period.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-180",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 180,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "A seafarer who contributes to aiding or rescuing another vessel is eligible to a share of the reward\nthat the vessel on which he works is entitled to, regardless of the type of wage of the work performed.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-181",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 181,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "If a seafarer dies during the voyage, his heirs shall be eligible to receive his wages through the date\nof his death, if the wage is on a monthly basis. If the wage is on a voy age basis, the heirs shall be\nentitled to the full wage of the voyage, and if the wage is a share of the profits, it shall be fully payable.\nThe dues of the deceased or missing seafarer, or who is unable to collect his wage shall be deposited\nwith the labor office at the port of destination in the Kingdom.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-182",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 182,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "An employer may terminate the contract without prior notice and without compensation in the\nfollowing cases:\n1. If the vessel sinks, is confiscated, goes missing, or becomes unseaworthy; or\n2. If the voyage is cancelled at the outset, for reasons beyond the chandler’s control and the wage is\non the basis of a single voyage, unless the contract provides otherwise.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-87"
+    ]
+  },
+  {
+    "id": "labor_law-en-183",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 183,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "If the contract expires or is revoked, the employer shall be obligated to:\n1. return the seafarer to the port of departure at the commencement of the contract; and\n2. provide him with food and accommodation until he reaches that port.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-184",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 184,
+    "part": "Part 11: Marine Employment Contract",
+    "chapter": null,
+    "section": null,
+    "text": "A chandler shall return the seafarer to his country in the following cases:\n1. If the chandler cancels the voyage after the vessel sails off.\n2. If the voyage is cancelled after the vessel sails off on account of prohibition of trading with the\ndestination.\n3. If the seafarer is removed from the vessel due to illness, injury, or disability.\n4. If the vessel is sold in a foreign country.\n5. If the seafarer is dismissed from service during the voyage without a legitimate justification.\n6. If the contract concluded with the seafarer expires at a port other than the one provided for in the\ncontract.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-185",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 185,
+    "part": "Part 12: Working in Mines and Quarries",
+    "chapter": null,
+    "section": null,
+    "text": "Working in mines and quarries shall mean the following:\n1. Operations involving prospecting, detecting, extracting, or manufacturing (solid or liquid) mineral\nsubstances, including precious stones, in the area for which the license was issued.\n2. Operations involving extracting, concentrating, or manufacturing mineral sediments on the surface\nor under the ground in the area of the license.\n3. Construction works and the installation of structures and equipment related to t he operations\nreferred to in paragraphs (1) and (2) of this Article.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-186",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 186,
+    "part": "Part 12: Working in Mines and Quarries",
+    "chapter": null,
+    "section": null,
+    "text": "No person under the age of 18 or any woman regardless of her age shall be employed in a mine or\nquarry.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-54"
+    ]
+  },
+  {
+    "id": "labor_law-en-187",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 187,
+    "part": "Part 12: Working in Mines and Quarries",
+    "chapter": null,
+    "section": null,
+    "text": "No person shall be allowed to engage in operations subject  to the provisions of this Part until he\nundergoes a complete medical examination and is proven to be physically fit for the required work.\nSuch examination shall be repeated periodically. The worker may not be required to bear the costs of\nnecessary medical examinations. The Minister shall set forth, pursuant to a decision by him, the terms,\nconditions, and periods that must be complied with.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-188",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 188,
+    "part": "Part 12: Working in Mines and Quarries",
+    "chapter": null,
+    "section": null,
+    "text": "The actual working hours spent by the worker underground shall not exceed seven hours a day. No\nworker shall be kept at the workplace, above or below the ground, for more than 10 hours a day. If\nthe work is conducted underground, such a period shall include the time needed for the worker to\nreach underground and the time needed to return to the surface.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-189",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 189,
+    "part": "Part 12: Working in Mines and Quarries",
+    "chapter": null,
+    "section": null,
+    "text": "Access to the work location and facilities shall be restricted to workers therein, persons authorized to\ninspect the mine or quarry, and persons holding special permits from the competent authority.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-190",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 190,
+    "part": "Part 12: Working in Mines and Quarries",
+    "chapter": null,
+    "section": null,
+    "text": "An employer shall keep a record to register and count the workers before they enter the workplace\nand as they exit therefrom.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-191",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 191,
+    "part": "Part 12: Working in Mines and Quarries",
+    "chapter": null,
+    "section": null,
+    "text": "An employer or the manager in -charge shall draft a list of orders and instructions related to public\nsafety.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-192",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 192,
+    "part": "Part 12: Working in Mines and Quarries",
+    "chapter": null,
+    "section": null,
+    "text": "An employer shall establish a rescue point in the vicinity of the workplace, equipped with necessary\nrescue and first aid equipment. Said point shall be equipped with suitable means of communication\nfor immediate access, and the employer shall appoint a trained technician to supervi se rescue and\nfirst aid operations.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-193",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 193,
+    "part": "Part 12: Working in Mines and Quarries",
+    "chapter": null,
+    "section": null,
+    "text": "Without prejudice to the provisions of Article 142 of this Law, the employer of each mine or quarry\nwith at least 50 workers shall set up a suitable location with a room equipped with rescue and first\naid equipment, another room for nursing, and one or more locker rooms. As for quarries and mines\nwith less than 50 workers and which are located within a twenty -kilometer radius of each other,\nemployers may pool their resources to establish a place of rescue and  first aid in between such\nquarries and mines, or else establish their own places of rescue and first aid.\nThe Minister may determine the rescue and first aid equipment and the protection and prevention\nmeasures in mines and quarries as well as employers’ responsibilities and workers’ rights and duties.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-194",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 194,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "Work inspection shall be undertaken by competent inspectors to be named pursuant to a decision by\nthe Minister. They shall have the powers and authorities provided for in this Law.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-34"
+    ]
+  },
+  {
+    "id": "labor_law-en-195",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 195,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "In addition to the general conditions for appointing employees, a work inspector shall satisfy the\nfollowing requirements when performing his duties:\n1. Total impartiality.\n2. Absence of any direct or indirect relation with the establishments he inspects.\n3. Passing a conduct examination following completion of a training period of at least 90 days.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-94"
+    ]
+  },
+  {
+    "id": "labor_law-en-196",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 196,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "Work inspectors shall undertake the following:\n1. Monitoring the proper implementation of the provisions of the Labor Law and its implementing\nregulations and decisions.\n2. Furnishing employers and workers with technical information and guidelines that enable them to\nfollow the best means for implementing the provisions of the Law.\n3. Notifying the competent authorities of the shortcomings  of existing provisions, and submitting\nrelevant proposals.\n4. Recording violations of the provisions of the Labor Law and its implementing decisions.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-35",
+      "labor_law-en-amd-88"
+    ]
+  },
+  {
+    "id": "labor_law-en-197",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 197,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "Before assuming their official duties, work inspectors shall take an oath before the Minister  to\ndischarge their duties honestly and sincerely, and not disclose the secrets of any industrial invention\nor any other secrets which may come to their knowledge by reason of their offices, even after leaving\nsuch offices. A work inspector shall carry an identification card issued by the Ministry.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-36",
+      "labor_law-en-amd-94"
+    ]
+  },
+  {
+    "id": "labor_law-en-198",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 198,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "Work inspectors shall have the right to the following:\n1. Access any establishment that is subject to the provisions of the Labor Law at any time, day or\nnight, without prior notice.\n2. Perform any examination or investigation required to ascertain the proper implementation of the\nLaw. They may in particular:\na) Question the employer, his representative, or the workers in private or in the presence of\nwitnesses about any matter relating to the implementation of the provisions of the Law.\nb) Review all books, records, and other documents that must be kept pursuant to the provisions of\nthis Law and relevant decisions, and obtain any copies or extracts therefrom.\nc) Take samples of the materials used or handled i n industrial and other operations subject to\ninspection and believed to have a harmful effect on the health or safety of workers, for the\npurpose of analyzing such samples in government laboratories to determine the extent of such\neffect, and duly notify the employer or his representative of the same.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-89"
+    ]
+  },
+  {
+    "id": "labor_law-en-199",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 199,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "Employers and their agents shall facilitate for the inspectors and officials entrusted with work\ninspection the performance of their duties. They shall provide them with the required information\nrelevant to the nature of their work, respond to requests to appear before them, and dispatch a\nrepresentative when asked.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-90"
+    ]
+  },
+  {
+    "id": "labor_law-en-200",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 200,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "A person conducting inspection shall notify the employer or his representative of his visit except\nwhere he believes that the task for which the inspection is being made requires otherwise.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-201",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 201,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "A work inspector may instruct employers to amend the rules for operating their equipment and\nmachinery at deadlines he specifies, to ensure compliance with the provisions pertaining to workers’\nhealth and safety. In the event of a hazard threatening the workers’ health and safety, the inspector\nmay request the immediate implementation of the measures he deems necessary to prevent such\nhazard.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-202",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 202,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "A work inspector shall treat with absolute secrecy the complaints he receives regarding any shortage\nin equipment or any violation of the provisions of the Law, and he shall not disclose to the employer\nor his representative the existence of such complaints.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-203",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 203,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "If, in the course of inspection, the inspector concludes the existence of a violation of the provisions\nof this Law or of any decisions issued hereunder, he shall, provide advice to the employer on how to\navoid such violation, serve the employer with a verbal n otice or a written warning to rectify the\nviolation within a certain period or else draft a report recording the violation, depending on the\nseriousness of the violation and the other circumstances that are left to his discretion.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-37",
+      "labor_law-en-amd-94"
+    ]
+  },
+  {
+    "id": "labor_law-en-204",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 204,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "Whenever the need arises, physicians, engineers, chemists, and specialists in occupational health and\nsafety shall participate in the inspection. If necessary, the director of the labor office and inspectors\nmay request the competent executive bodies to extend the required assistance.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-205",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 205,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "The work inspection chief at the labor office shall prepare a monthly report on work inspection\nactivities, the aspects of inspection, inspected establishments, the number and type of violations\ncommitted, and the actions taken with respect thereto. He shall also prepare an annual report on the\ninspection undertaken within the jurisdiction of the labor office, and its findings and effects, and he\nshall include therein his comments and proposals. Copies of both reports shall  be submitted to the\nMinistry.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-94"
+    ]
+  },
+  {
+    "id": "labor_law-en-206",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 206,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "The Deputy Minister for Labor Affairs shall prepare, within a period not exceeding 180 days from\nthe end of the year, a comprehensive annual report on work inspection in the Kingdom, addressing\nall matters relating to the Ministry’s monitoring of the implementation of the provisions of the Labor\nLaw.\nIn particular, the report shall include the following:\n1. A statement of the provisions regulating inspection.\n2. A list of the officials in charge of inspection.\n3. Statistics on the establishments subject to inspection and the number of workers therein.\n4. Statistics on inspectors’ visits and inspections.\n5. Statistics on the violations committed and the penalties imposed.\n6. Statistics on work injuries.\n7. Statistics on occupational diseases.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-94"
+    ]
+  },
+  {
+    "id": "labor_law-en-207",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 207,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "The Ministry shall prepare forms for recording violations, inspection records, notices, and warnings,\nand shall establish the provisions necessary for the filing and use of such forms and for their\ndistribution to labor offices.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-94"
+    ]
+  },
+  {
+    "id": "labor_law-en-208",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 208,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "Training courses shall be organized for work inspectors, and shall in particular include the following:\n1. Principles for organizing inspection visits and communicating with employers and workers.\n2. Principles for auditing books, records, and compu ters, as well as principles for organizing\ninspection reports and interrogating persons.\n3. Principles for guiding employers on the requirements of statutory provisions and the benefits of\ntheir application, and assisting them in such application.\n4. Fundamental principles of industrial technology and the means of protection against work injuries\nand occupational diseases.\n5. Fundamental principles of production efficiency and its relevance to providing conditions\nconducive to a proper work environment.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-94"
+    ]
+  },
+  {
+    "id": "labor_law-en-209",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 209,
+    "part": "Part 13: Work Inspection",
+    "chapter": null,
+    "section": null,
+    "text": "The Council of Ministers shall issue the Implementing Regulations necessary for governing and\nregulating inspection activities as provided for in this Part.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-91"
+    ]
+  },
+  {
+    "id": "labor_law-en-210",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 210,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "Commissions for settlement of labor disputes are:\n1. The Preliminary Commissions for Settlement of Disputes\n2. The High Commission for Settlement of Disputes",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-211",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 211,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "Pursuant to a decision by the Minister and following the approval of the President of the Council of\nMinisters, members of the preliminary commissions shall be named from among holders of degrees\nin Sharia or law.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-212",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 212,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "Based on a decision by the Minister, a preliminary commission comprising one or more one-member\ncircuits shall be formed in each labor office speci fied by the Minister. Each of these circuits shall\ndecide the cases referred to it. If the commission comprises more than one circuit, the Minister shall\nname a head from among the members, who shall, in addition to his duties, assign cases to\ncommission members and organize administrative and clerical work.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-213",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 213,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "If no preliminary commission is formed in a labor office, the Minister shall, when necessary, delegate\nthe commission formed at the nearest labor office with the duties and jurisdictions of the commission\nwhich has not been formed.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-214",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 214,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "The preliminary commission shall have jurisdiction to:\n1. Render final decisions on:\n1.1 Labor disputes, irrespective of their type, the value of which does not exceed 10,000 riyals.\n1.2 Objections to the penalties imposed by employers upon workers.\n1.3 Imposing the punishments provided for in this Law for a violation the punishment of which\ndoes not exceed 5,000 riyals and violations with a combined punishment not exceeding 5,000\nriyals.\n2. Render preliminary decisions on:\n2.1 Labor disputes the value of which exceeds 10,000 riyals.\n2.2 Disputes over compensation for work injuries, irrespective of the amount of the compensation.\n2.3 Disputes over termination of service.\n2.4 Imposing the punishments provided for in this Law for a  violation the punishment of which\nexceeds 5,000 riyals and violations with a combined punishment exceeding 5,000 riyals.\n2.5 Imposing punishments on violations punishable by fines and consequential punishments.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-215",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 215,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "The High Commission for Settlement of Disputes shall be composed of several circuits, each\ncomprising of not less than three members. The chairman and members of the commission who shall\nbe holders of degrees in Sharia and law with expertise in labor disputes shall be named pursuant to a\ndecision of the Council of Ministers, based on a nomination by the Minister. A decision by the\nMinister, based on the recommendation of the Chairman of the Commission, shall specify the number\nof circuits of the High Commission and their venue jurisdiction. The Chairman of the Commission\nshall select the heads of the circuits, assign the duties of each, and supervise all the administrative\nfunctions of the circuits.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-216",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 216,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "Each of the circuits of the High Commission shall have jurisdiction to decide finally and definitively\non all appeals brought before it against decisions of the circuits of preliminary commissions.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-217",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 217,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "Decisions may be appealed within 30 days from the date of utterance of the preliminary circuit’s\ndecisions made in the presenc e of the concerned parties and from the date of notification in other\ncases.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-218",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 218,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "If the decision of the preliminary circuit is not appealed within the period specified in the previous\nArticle, the decision shall be deemed final and enforceable. Al l decisions of the circuits of the High\nCommission shall be deemed enforceable from the date of their issuance.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-219",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 219,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "Each of these commissions shall solely have the exclusive right to consider all disputes relating to\nthis Law and the disputes arising from employment contracts. It may summon any person for\ninterrogation or assign one of its members to conduct such interr ogation. It may also require the\nsubmission of documents and evidence and take any other measures it may deem fit. The commission\nshall also have the right to access any premises of the establishment for the purpose of conducting an\ninvestigation and reviewing all the books, records, and documents it deems necessary.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-220",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 220,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "Cases shall be filed through the competent labor office with the preliminary commissions in whose\nlocality or under whose jurisdiction the place of work falls. Prior to referring  the dispute to the\ncommission, the labor office shall take the necessary measures to settle the dispute amicably. The\nMinister shall issue a decision setting forth relevant procedures and rules.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-221",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 221,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "Cases arising from the provisions of this Law shall be reviewed promptly.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-222",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 222,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "1. No case shall be accepted by the commissions provided for in this Law involving a claim of the\nrights provided for in this Law or arising from an employment contract after 12 months have\nelapsed after the termination of the employment relation.\n2. No case involving a claim of the rights provided for in the previous Labor Law shall be accepted\nafter 12 months have elapsed following the effective date of this Law.\n3. No complaints regarding violations of the provisions of this Law or the regulations and decisions\nissued hereunder shall be accepted after 12 months have elapsed following the date of the\noccurrence of the violation.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-223",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 223,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "None of the commissions provided for in this Part may abstain from rendering its decision on the\npretext of the absence of applicable provisions in this Law. In such case, the commissions shall resort\nto the principles of Sharia, established judicial precedents, norms, and the principles of justice.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-224",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 224,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "Parties to an employment contract may incorporate a clause in the employment contract providing\nfor the settlement of disputes through arbitration, or said parties may agree to do so after a dispute\narises. In all cases, the provisions of the Arbitration Law and its Implementing Regulations in force\nin the Kingdom shall apply.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-225",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 225,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "Neither of the disputing parties may bring the dispute, upon which a final decision has been rendered\nby one of the commissions provided for in this Part, before this Commission or other judicial bodies.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-226",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 226,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "During the reconciliation or arbitration proceedings or while the case is under review before one of\nthe commissions provided for in this Part, the employer may not change the terms of employment\napplicable before the initiation of the proceedings in a way that would cause harm to the worker.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-227",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 227,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "The Commission may order the losing party to pay the other party all or part of the costs incurred by\nhim.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-228",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 228,
+    "part": "Part 14: Commissions for Settlement of Labor Disputes",
+    "chapter": null,
+    "section": null,
+    "text": "The Council of Ministers shall issue the regulations for litigation before the commissions for\nsettlement of labor disputes.",
+    "status": "repealed",
+    "amendments": [
+      "labor_law-en-amd-3"
+    ]
+  },
+  {
+    "id": "labor_law-en-229",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 229,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "The punishments provided for in this Part shall apply in the absence of harsher punishments provided\nfor in any other laws.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-38",
+      "labor_law-en-amd-92"
+    ]
+  },
+  {
+    "id": "labor_law-en-230",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 230,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "A fine of not less than 3,000 riyals and not more than 10,000 riyals shall be imposed on any person\nwho violates any of the provisions related to the vocational preparation of Saudi workers to replace\nothers, as provided for in this Law and the decisions issued hereunder.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-38",
+      "labor_law-en-amd-93"
+    ]
+  },
+  {
+    "id": "labor_law-en-231",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 231,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "Violators of the provisions of Articles 16, 25, 33, 37, and 38 of this Law shall be subject to a fine of\nnot less than 2,000 riyals and not more than 5,000 riyals. The fine shall be multiplied by the number\nof workers subject of the violation.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-38"
+    ]
+  },
+  {
+    "id": "labor_law-en-232",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 232,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "Violators of the provision of Article 30 of this Law shall be subject to a fine of not less than 10,000\nriyals and not more than 30,000 riyals.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-38"
+    ]
+  },
+  {
+    "id": "labor_law-en-233",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 233,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "Violators of the provision of Article 39 of this Law shall be subject to a fine of not less than 5,000\nriyals and not more than 20,00 0 riyals, and the fine shall be multiplied by the number of persons\nsubject of the violation. The worker shall be repatriated at the expense of the person who employs\nhim.",
+    "status": "replaced",
+    "amendments": [
+      "labor_law-en-amd-2",
+      "labor_law-en-amd-38",
+      "labor_law-en-amd-41"
+    ]
+  },
+  {
+    "id": "labor_law-en-234",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 234,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "An employer or any person responsible for violation of the provisions of Chapters 2, 3, and 4 of Part\n6 of this Law, or any decisions issued hereunder shall be subject to a fine of not less than 2,000 riyals\nand not exceeding 5,000 riyals for each violation.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-38",
+      "labor_law-en-amd-46"
+    ]
+  },
+  {
+    "id": "labor_law-en-235",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 235,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "An employer who violates the provision of Article 90 of this Law shall be subject to a fine of not less\nthan 500 riyals and not more than 3,000 riyals. The fine shall be multiplied by the number of the\nworkers subject of the violation.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-38",
+      "labor_law-en-amd-46"
+    ]
+  },
+  {
+    "id": "labor_law-en-236",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 236,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "Any person who violates the provisions of Chapters 1 and 2 of Part 8 of this Law and the rules issued\nin accordance with the provision of Article 121 of this Law shall be subject to a fine of not less than\n3,000 riyals and not more than 10,000 riyals for each violation or closing down the establishment for\nnot more than 30 days or permanently. The fine and the closing down may be combined along with\nthe elimination of the source of the hazard.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-38"
+    ]
+  },
+  {
+    "id": "labor_law-en-237",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 237,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "Without prejudice to the punishment provided for i n other laws applicable to those who obstruct an\nofficial in the course of his duties, violators of the provisions of Article 199 of this Law shall be\nsubject to a fine of not less than 5,000 riyals and not more than 10,000 riyals.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-38"
+    ]
+  },
+  {
+    "id": "labor_law-en-238",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 238,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "Any employer, project manager or worker who refuses or delays execution of an arbitration award or\na final decision rendered by any of the labor dispute settlement commissions shall be subject to a fine\nof not less than 10,000 riyals and not more than 30,000 riyals.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-38"
+    ]
+  },
+  {
+    "id": "labor_law-en-239",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 239,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "A violator of any of the provisions of this Law and the regulations and decisions issued hereunder\nshall be subject to a fine of not less than 2,000 riyals and not more than 5,000 riyals, for punishments\nnot provided for herein.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-38"
+    ]
+  },
+  {
+    "id": "labor_law-en-240",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 240,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "If the violation is repeated within 90 days or the violator fails to correct it within the specified period,\nthe fine shall be doubled.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-39"
+    ]
+  },
+  {
+    "id": "labor_law-en-241",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 241,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "In all cases, the violator may pay the maximum prescribed fine as provided for in this Part without\nresorting to the Commission for Settlement of Labor Disputes.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-38"
+    ]
+  },
+  {
+    "id": "labor_law-en-242",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 242,
+    "part": "Part 15: Punishments",
+    "chapter": null,
+    "section": null,
+    "text": "Proceeds of fines collected on account of violations of the provisions of this Law and the regulations\nand decisions issued hereunder shall eventually be deposited with the Human Resources\nDevelopment Fund.",
+    "status": "amended",
+    "amendments": [
+      "labor_law-en-amd-40"
+    ]
+  },
+  {
+    "id": "labor_law-en-243",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 243,
+    "part": "Part 16: Concluding Provisions",
+    "chapter": null,
+    "section": null,
+    "text": "The Minister shall issue, within 180 days from this Law’s entry into force, the decisions and\nregulations necessary for implementing the provisions thereof. The Implementing Regulations shall\nbe published in the Official Gazette.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-244",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 244,
+    "part": "Part 16: Concluding Provisions",
+    "chapter": null,
+    "section": null,
+    "text": "This Law shall supersede the Labor and Workers’ Law promulgated by Royal Decree No. M/21 dated\n6/9/1389H and shall repeal all the provisions that are inconsistent therewith. Regulations and\ndecisions issued prior to the effective date of this Law shall remain in effect until they are amended.",
+    "status": "original",
+    "amendments": []
+  },
+  {
+    "id": "labor_law-en-245",
+    "law": "labor_law",
+    "lang": "en",
+    "article_number": 245,
+    "part": "Part 16: Concluding Provisions",
+    "chapter": null,
+    "section": null,
+    "text": "This Law shall be published in the Official Gazette and shall enter into force 180 days after the date\nof its publication.",
+    "status": "original",
+    "amendments": []
+  }
+]
