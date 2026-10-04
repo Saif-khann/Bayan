@@ -1,0 +1,187 @@
+{
+  "1": {
+    "status": "compliant",
+    "articles": [],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      55,
+      75,
+      74,
+      77,
+      56,
+      37
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "2": {
+    "status": "compliant",
+    "articles": [
+      53
+    ],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      53,
+      54,
+      80,
+      68,
+      97,
+      72
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "3": {
+    "status": "compliant",
+    "articles": [
+      109
+    ],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      109,
+      117,
+      115,
+      110,
+      152,
+      113
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "4": {
+    "status": "compliant",
+    "articles": [
+      75
+    ],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      75,
+      80,
+      72,
+      79,
+      53,
+      76
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "5": {
+    "status": "compliant",
+    "articles": [
+      83
+    ],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      83,
+      55,
+      37,
+      33,
+      74,
+      40
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "6": {
+    "status": "violation",
+    "articles": [
+      53
+    ],
+    "issue": "The clause restricts the right to terminate the contract during the probation period exclusively to the employer, whereas the law states that each party shall have the right to terminate the contract.",
+    "suggested_fix": "Each party shall have the right to terminate the contract during the probation period.",
+    "retrieved": [
+      53,
+      54,
+      80,
+      48,
+      75,
+      79
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "7": {
+    "status": "compliant",
+    "articles": [
+      107
+    ],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      107,
+      6,
+      106,
+      90,
+      2,
+      97
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "8": {
+    "status": "compliant",
+    "articles": [
+      92
+    ],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      92,
+      91,
+      93,
+      137,
+      118,
+      90
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "9": {
+    "status": "violation",
+    "articles": [
+      79
+    ],
+    "issue": "The clause allows for resignation with a deferred date, which directly violates Article 79 bis paragraph 4 stating that a resignation may not be tendered with a deferred date.",
+    "suggested_fix": "Resignation: A resignation must be submitted without a deferred date and in accordance with the provisions of the Saudi Labor Law.",
+    "retrieved": [
+      79,
+      85,
+      75,
+      72,
+      74,
+      2
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "10": {
+    "status": "violation",
+    "articles": [
+      113
+    ],
+    "issue": "The clause grants only 3 days of paid leave for marriage, whereas Article 113 of the Saudi Labor Law entitles the worker to a fully paid five-day leave in the event of the worker's marriage.",
+    "suggested_fix": "Marriage leave: The Employee is entitled to 5 days of fully paid leave for his marriage.",
+    "retrieved": [
+      113,
+      160,
+      114,
+      152,
+      115,
+      109
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "11": {
+    "status": "violation",
+    "articles": [
+      90
+    ],
+    "issue": "The clause states that wages shall be paid at the end of each quarter, which violates the Saudi Labor Law requirement that monthly-paid workers must be paid at least once a month and wages must be deposited into bank accounts through approved banks.",
+    "suggested_fix": "Wages: Wages shall be paid on a monthly basis and deposited into the employee's bank account through an approved bank in the Kingdom in accordance with the Saudi Labor Law.",
+    "retrieved": [
+      90,
+      92,
+      172,
+      84,
+      94,
+      86
+    ],
+    "model": "gemini-flash-lite-latest"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "1": {
+    "status": "compliant",
+    "articles": [],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      16,
+      15,
+      42,
+      25,
+      26,
+      160
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "2": {
+    "status": "violation",
+    "articles": [
+      37
+    ],
+    "issue": "The employee is a non-Saudi national, and under the Saudi Labor Law, employment contracts for non-Saudis must be of a fixed term rather than an indefinite term.",
+    "suggested_fix": "Term: This is a fixed-term contract valid for one year commencing from the date the worker starts employment, renewable for a similar period.",
+    "retrieved": [
+      55,
+      74,
+      37,
+      75,
+      77,
+      56
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "3": {
+    "status": "compliant",
+    "articles": [
+      90
+    ],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      90,
+      229,
+      84,
+      234,
+      164,
+      70
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "4": {
+    "status": "violation",
+    "articles": [
+      53
+    ],
+    "issue": "The probation period of 200 days exceeds the maximum legal limit of 180 days set by Article 53.",
+    "suggested_fix": "Probation: The Employee shall be subject to a probation period of 180 days.",
+    "retrieved": [
+      53,
+      54,
+      80,
+      72,
+      240,
+      229
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "5": {
+    "status": "compliant",
+    "articles": [
+      98,
+      104
+    ],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      104,
+      101,
+      106,
+      98,
+      100,
+      107
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "6": {
+    "status": "violation",
+    "articles": [
+      109
+    ],
+    "issue": "The clause grants 15 days of paid annual leave, which violates the statutory minimum of 21 days required by the Saudi Labor Law.",
+    "suggested_fix": "Annual leave: The Employee is entitled to 21 days of paid annual leave per year, to be increased to not less than 30 days if the worker spends five consecutive years in the service of the employer.",
+    "retrieved": [
+      115,
+      109,
+      110,
+      152,
+      114,
+      160
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "7": {
+    "status": "compliant",
+    "articles": [
+      117,
+      82
+    ],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      117,
+      82,
+      113,
+      111,
+      154,
+      116
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "8": {
+    "status": "violation",
+    "articles": [
+      75
+    ],
+    "issue": "The 15-day notice period for an indefinite term contract violates Article 75, which requires at least 30 days' notice if terminated by the employee and 60 days if terminated by the employer.",
+    "suggested_fix": "Termination: If the termination is by the employee, he must give the employer a written notice at least 30 days prior to the date of termination. If the termination is by the employer, he must send a written notice to the worker at least 60 days prior to the date of termination.",
+    "retrieved": [
+      75,
+      80,
+      48,
+      76,
+      77,
+      53
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "9": {
+    "status": "violation",
+    "articles": [
+      84
+    ],
+    "issue": "The clause attempts to waive the employee's statutory right to an end-of-service award, which is a mandatory entitlement under the Saudi Labor Law.",
+    "suggested_fix": "Upon the end of the employment relation, the employer shall pay the worker an end-of-service award in accordance with the provisions of the Saudi Labor Law.",
+    "retrieved": [
+      84,
+      86,
+      87,
+      85,
+      88,
+      18
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "10": {
+    "status": "violation",
+    "articles": [
+      40
+    ],
+    "issue": "The clause requires the employee to pay residence permit (Iqama) and work permit fees, whereas Article 40 requires the employer to bear these fees for non-Saudi workers.",
+    "suggested_fix": "Government fees: The Employer shall bear all fees for the Employee's residence permit (Iqama) and work permit, including renewals.",
+    "retrieved": [
+      40,
+      30,
+      34,
+      35,
+      33,
+      25
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "11": {
+    "status": "violation",
+    "articles": [
+      91
+    ],
+    "issue": "The clause allows the employer to deduct the full cost of repair for damaged company property in a single month, whereas Article 91 limits such deductions to a maximum of a five-day wage per month.",
+    "suggested_fix": "Damages: If the Employee damages company property, the Employer may deduct from the worker's wage the amount necessary for repair or restoration, provided that such deductions do not exceed a five-day wage per month.",
+    "retrieved": [
+      91,
+      92,
+      70,
+      77,
+      88,
+      19
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "12": {
+    "status": "violation",
+    "articles": [
+      83
+    ],
+    "issue": "The non-compete duration of three years exceeds the maximum legal limit of two years, and the place is overly broad without proper specification to the legitimate interests required by law.",
+    "suggested_fix": "Non-compete: For two years after this contract ends, the Employee shall not work for any direct competitor in Riyadh within the specific field of the employer's business.",
+    "retrieved": [
+      83,
+      85,
+      34,
+      33,
+      37,
+      55
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "13": {
+    "status": "compliant",
+    "articles": [
+      65,
+      83
+    ],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      65,
+      83,
+      80,
+      166,
+      190,
+      79
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "14": {
+    "status": "compliant",
+    "articles": [],
+    "issue": "",
+    "suggested_fix": "",
+    "retrieved": [
+      168,
+      7,
+      40,
+      16,
+      1,
+      77
+    ],
+    "model": "gemini-flash-lite-latest"
+  }
+}
